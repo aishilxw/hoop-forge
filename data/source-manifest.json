@@ -1,0 +1,211 @@
+{
+  "retrievedAt": "2026-10-29",
+  "season": "2026-27",
+  "rosterSourceType": "published-current-regular-season-rosters",
+  "primaryRosterSource": "https://basketball.realgm.com/nba/teams",
+  "teamSources": [
+    {
+      "team": "BOS",
+      "url": "https://basketball.realgm.com/nba/teams/Boston-Celtics/2/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "BKN",
+      "url": "https://basketball.realgm.com/nba/teams/Brooklyn-Nets/38/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "NYK",
+      "url": "https://basketball.realgm.com/nba/teams/New-York-Knicks/20/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "PHI",
+      "url": "https://basketball.realgm.com/nba/teams/Philadelphia-Sixers/22/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "TOR",
+      "url": "https://basketball.realgm.com/nba/teams/Toronto-Raptors/28/Rosters/Regular/2027",
+      "playerCount": 16
+    },
+    {
+      "team": "CHI",
+      "url": "https://basketball.realgm.com/nba/teams/Chicago-Bulls/4/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "CLE",
+      "url": "https://basketball.realgm.com/nba/teams/Cleveland-Cavaliers/5/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "DET",
+      "url": "https://basketball.realgm.com/nba/teams/Detroit-Pistons/8/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "IND",
+      "url": "https://basketball.realgm.com/nba/teams/Indiana-Pacers/11/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "MIL",
+      "url": "https://basketball.realgm.com/nba/teams/Milwaukee-Bucks/16/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "ATL",
+      "url": "https://basketball.realgm.com/nba/teams/Atlanta-Hawks/1/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "CHA",
+      "url": "https://basketball.realgm.com/nba/teams/Charlotte-Hornets/3/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "MIA",
+      "url": "https://basketball.realgm.com/nba/teams/Miami-Heat/15/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "ORL",
+      "url": "https://basketball.realgm.com/nba/teams/Orlando-Magic/21/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "WAS",
+      "url": "https://basketball.realgm.com/nba/teams/Washington-Wizards/30/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "DEN",
+      "url": "https://basketball.realgm.com/nba/teams/Denver-Nuggets/7/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "MIN",
+      "url": "https://basketball.realgm.com/nba/teams/Minnesota-Timberwolves/17/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "OKC",
+      "url": "https://basketball.realgm.com/nba/teams/Oklahoma-City-Thunder/33/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "POR",
+      "url": "https://basketball.realgm.com/nba/teams/Portland-Trail-Blazers/24/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "UTA",
+      "url": "https://basketball.realgm.com/nba/teams/Utah-Jazz/29/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "GSW",
+      "url": "https://basketball.realgm.com/nba/teams/Golden-State-Warriors/9/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "LAC",
+      "url": "https://basketball.realgm.com/nba/teams/Los-Angeles-Clippers/12/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "LAL",
+      "url": "https://basketball.realgm.com/nba/teams/Los-Angeles-Lakers/13/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "PHX",
+      "url": "https://basketball.realgm.com/nba/teams/Phoenix-Suns/23/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "SAC",
+      "url": "https://basketball.realgm.com/nba/teams/Sacramento-Kings/25/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "DAL",
+      "url": "https://basketball.realgm.com/nba/teams/Dallas-Mavericks/6/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "HOU",
+      "url": "https://basketball.realgm.com/nba/teams/Houston-Rockets/10/Rosters/Regular/2027",
+      "playerCount": 17
+    },
+    {
+      "team": "MEM",
+      "url": "https://basketball.realgm.com/nba/teams/Memphis-Grizzlies/14/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "NOP",
+      "url": "https://basketball.realgm.com/nba/teams/New-Orleans-Pelicans/19/Rosters/Regular/2027",
+      "playerCount": 18
+    },
+    {
+      "team": "SAS",
+      "url": "https://basketball.realgm.com/nba/teams/San-Antonio-Spurs/26/Rosters/Regular/2027",
+      "playerCount": 17
+    }
+  ],
+  "playerCount": 521,
+  "officialCrossCheck": "data/official-roster-audit-2026-10-29.json",
+  "officialLeagueCount": 522,
+  "unresolvedOfficialCountDifference": 1,
+  "ratingsMapped": 446,
+  "ratingsEstimated": 75,
+  "chineseNames": "data/chinese-name-audit.json",
+  "rawRosterSha256": "9234207a3ac1c449736d822343582baf2f0e10d4d7c0dd64fce118395ad76e36",
+  "status": "partial",
+  "previousReference": {
+    "retrievedAt": "2026-10-29",
+    "sourceSnapshotDate": "2026-10-20",
+    "sourceCommit": "1f22a1e286409ae2a62bcf002a6152c20217e9c9",
+    "sourceUrl": "https://github.com/evanz/nba-lineup-model/blob/1f22a1e286409ae2a62bcf002a6152c20217e9c9/artifacts/analysis/preseason_roster_minutes/2026-27-current-roster.csv",
+    "playerCount": 518,
+    "teamCounts": {
+      "ATL": 18,
+      "BKN": 18,
+      "BOS": 17,
+      "CHA": 18,
+      "CHI": 17,
+      "CLE": 17,
+      "DAL": 17,
+      "DEN": 17,
+      "DET": 18,
+      "GSW": 18,
+      "HOU": 17,
+      "IND": 17,
+      "LAC": 18,
+      "LAL": 18,
+      "MEM": 18,
+      "MIA": 17,
+      "MIL": 17,
+      "MIN": 16,
+      "NOP": 18,
+      "NYK": 17,
+      "OKC": 17,
+      "ORL": 17,
+      "PHI": 17,
+      "PHX": 17,
+      "POR": 17,
+      "SAC": 16,
+      "SAS": 17,
+      "TOR": 16,
+      "UTA": 18,
+      "WAS": 18
+    },
+    "extractSha256": "8bab86af827703e60b9bb637e7fcd67f9e11efa0eb41ee94b7370bd7f2f489d0",
+    "status": "partial",
+    "officialTeamByTeamAudit": false,
+    "ratings": "estimated-prototype; NBA 2K26 mapping pending",
+    "redistributionNote": "Only factual roster fields retained; third-party projections and descriptive comments excluded."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "method": "120固定种子；BOS对LAL＋九维80原创球员。此为模型基线与趋势验证，不是现实NBA数据拟合。",
+  "perTeamPerGame": {
+    "points": 120.28,
+    "rebounds": 48.85,
+    "assists": 19.28,
+    "turnovers": 12.89,
+    "fta": 22.7,
+    "ftm": 17.28,
+    "fga": 89.45,
+    "fgm": 43.06,
+    "threePA": 44.92,
+    "threePM": 16.88,
+    "fouls": 14.52
+  },
+  "fgPercent": 48.14,
+  "threePercent": 37.57,
+  "homeOwnWinRate": 0.7916666666666666,
+  "awayOwnWinRate": 0.6916666666666667,
+  "originalMeanPoints": 17.65,
+  "tiredOriginalMeanPoints": 16.891666666666666,
+  "perimeterThreePA": 57.416666666666664,
+  "paintThreePA": 13.15,
+  "negativeMinuteBoxes": 0
+}

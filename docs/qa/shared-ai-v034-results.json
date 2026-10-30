@@ -1,0 +1,316 @@
+[
+  {
+    "path": "coach",
+    "status": 200,
+    "durationMs": 3774,
+    "body": {
+      "model": "deepseek-flash",
+      "generatedAt": "2026-10-30T05:27:15.378Z",
+      "fingerprint": "b9f32a6b16affbc58a5348cbcfe090992111165988832c826b2254910a47125c",
+      "promptVersion": "quarter-coach-1",
+      "metrics": {
+        "inputTokens": 540,
+        "outputTokens": 206,
+        "totalTokens": 746,
+        "cachedInputTokens": 128,
+        "durationMs": 2062
+      },
+      "servedFromCache": false,
+      "context": {
+        "version": 1,
+        "matchId": "shared-review-20261030",
+        "completedQuarters": 1,
+        "facts": [
+          {
+            "id": "situation",
+            "label": "situation",
+            "text": "第一节结束，波士顿凯尔特人主场对洛杉矶湖人，比分24比29，下一节为第二节。"
+          },
+          {
+            "id": "player",
+            "label": "player",
+            "text": "原创球员敬禹第一节6分、2助攻、2次失误，体能92，个人犯规1次。"
+          },
+          {
+            "id": "own",
+            "label": "own",
+            "text": "本队第一节三分10投2中，失误5次，篮板10个。"
+          },
+          {
+            "id": "opponent",
+            "label": "opponent",
+            "text": "对手第一节内线得分16分，三分7投1中。"
+          },
+          {
+            "id": "previous",
+            "label": "previous",
+            "text": "上一节使用均衡进攻、均衡防守、正常节奏、均衡轮换，原创球员32分钟预算。"
+          },
+          {
+            "id": "rotation",
+            "label": "rotation",
+            "text": "可选重点：原创球员、杰森·塔图姆；均未六犯。"
+          },
+          {
+            "id": "scouting",
+            "label": "scouting",
+            "text": "对手内线得分能力较强。"
+          }
+        ],
+        "focusCandidates": [
+          {
+            "id": "original-player",
+            "name": "敬禹"
+          },
+          {
+            "id": "tatum",
+            "name": "杰森·塔图姆"
+          }
+        ]
+      },
+      "advice": {
+        "headline": "次节追分计划",
+        "analysis": [
+          {
+            "text": "首节落后5分，本队三分10投2中且失误5次，外线效率低、球权损耗偏多。",
+            "evidenceIds": [
+              "situation",
+              "own"
+            ]
+          },
+          {
+            "text": "对手内线得分16分、三分7投1中，内线威胁明显而外线产出有限。",
+            "evidenceIds": [
+              "opponent",
+              "scouting"
+            ]
+          }
+        ],
+        "plan": {
+          "offense": "attackPaint",
+          "defense": "protectPaint",
+          "pace": "normal",
+          "rotation": "balanced",
+          "originalMinutes": 32,
+          "focusPlayerId": "original-player"
+        },
+        "reason": "针对外线低效，改冲内线提高近筐出手；防守收缩护筐，限制对手主要得分方式；正常节奏避免额外疲劳，均衡轮换保持火力。",
+        "tradeoff": "收缩护筐会让出外线空位，冲内线可能增加失误与被包夹风险；敬禹预算32分钟，轮换仍可能消耗体能。"
+      }
+    }
+  },
+  {
+    "path": "coach",
+    "status": 200,
+    "durationMs": 363,
+    "body": {
+      "model": "deepseek-flash",
+      "generatedAt": "2026-10-30T05:27:15.378Z",
+      "fingerprint": "b9f32a6b16affbc58a5348cbcfe090992111165988832c826b2254910a47125c",
+      "promptVersion": "quarter-coach-1",
+      "metrics": {
+        "inputTokens": 540,
+        "outputTokens": 206,
+        "totalTokens": 746,
+        "cachedInputTokens": 128,
+        "durationMs": 2062
+      },
+      "servedFromCache": true,
+      "advice": {
+        "headline": "次节追分计划",
+        "analysis": [
+          {
+            "text": "首节落后5分，本队三分10投2中且失误5次，外线效率低、球权损耗偏多。",
+            "evidenceIds": [
+              "situation",
+              "own"
+            ]
+          },
+          {
+            "text": "对手内线得分16分、三分7投1中，内线威胁明显而外线产出有限。",
+            "evidenceIds": [
+              "opponent",
+              "scouting"
+            ]
+          }
+        ],
+        "plan": {
+          "offense": "attackPaint",
+          "defense": "protectPaint",
+          "pace": "normal",
+          "rotation": "balanced",
+          "originalMinutes": 32,
+          "focusPlayerId": "original-player"
+        },
+        "reason": "针对外线低效，改冲内线提高近筐出手；防守收缩护筐，限制对手主要得分方式；正常节奏避免额外疲劳，均衡轮换保持火力。",
+        "tradeoff": "收缩护筐会让出外线空位，冲内线可能增加失误与被包夹风险；敬禹预算32分钟，轮换仍可能消耗体能。"
+      },
+      "context": {
+        "version": 1,
+        "matchId": "shared-review-20261030",
+        "completedQuarters": 1,
+        "facts": [
+          {
+            "id": "situation",
+            "label": "situation",
+            "text": "第一节结束，波士顿凯尔特人主场对洛杉矶湖人，比分24比29，下一节为第二节。"
+          },
+          {
+            "id": "player",
+            "label": "player",
+            "text": "原创球员敬禹第一节6分、2助攻、2次失误，体能92，个人犯规1次。"
+          },
+          {
+            "id": "own",
+            "label": "own",
+            "text": "本队第一节三分10投2中，失误5次，篮板10个。"
+          },
+          {
+            "id": "opponent",
+            "label": "opponent",
+            "text": "对手第一节内线得分16分，三分7投1中。"
+          },
+          {
+            "id": "previous",
+            "label": "previous",
+            "text": "上一节使用均衡进攻、均衡防守、正常节奏、均衡轮换，原创球员32分钟预算。"
+          },
+          {
+            "id": "rotation",
+            "label": "rotation",
+            "text": "可选重点：原创球员、杰森·塔图姆；均未六犯。"
+          },
+          {
+            "id": "scouting",
+            "label": "scouting",
+            "text": "对手内线得分能力较强。"
+          }
+        ],
+        "focusCandidates": [
+          {
+            "id": "original-player",
+            "name": "敬禹"
+          },
+          {
+            "id": "tatum",
+            "name": "杰森·塔图姆"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "career-report",
+    "status": 200,
+    "durationMs": 5118,
+    "body": {
+      "model": "deepseek-flash",
+      "generatedAt": "2026-10-30T05:27:20.902Z",
+      "fingerprint": "661611a9a186f6c0969f702b50590bf107a8196e9bb0dbd6ff92f4d8fcb34908",
+      "promptVersion": "career-story-6",
+      "metrics": {
+        "inputTokens": 704,
+        "outputTokens": 480,
+        "totalTokens": 1184,
+        "cachedInputTokens": 512,
+        "durationMs": 4506
+      },
+      "servedFromCache": false,
+      "facts": {
+        "version": 1,
+        "scope": "完整生涯截至当前",
+        "facts": [
+          {
+            "id": "identity",
+            "label": "当前球员",
+            "text": "评测球员；当前19岁；当前球队波士顿凯尔特人；当前打法持球核心。"
+          },
+          {
+            "id": "boundary",
+            "label": "游戏事实边界",
+            "text": "阅读范围：完整生涯截至当前。这是游戏内模拟经历，不是现实NBA新闻。未提供的奖项、伤病、交易、采访和心理活动均不能当作事实。当前球员信息不代表历史赛季信息。"
+          },
+          {
+            "id": "abilities",
+            "label": "当前九维能力",
+            "text": "内线得分65、外线得分85、内线防守80、外线防守72、组织74、运球79、速度85、身体56、篮板45"
+          },
+          {
+            "id": "coverage",
+            "label": "逐季统计边界",
+            "text": "所选范围涉及1个赛季。第1季：1场，1胜0负，其中常规赛1场、季后赛0场；截至目前，赛季尚未归档。累计统计不能写成单个赛季的数据，单季常规赛最多82场。"
+          },
+          {
+            "id": "overall",
+            "label": "所选赛季总览",
+            "text": "1场，1胜0负；原创球员场均21.0分、3.0篮板、5.0助攻、1.0失误；投篮70.0%，三分40.0%。"
+          },
+          {
+            "id": "regular",
+            "label": "常规赛",
+            "text": "1场，1胜0负；原创球员场均21.0分、3.0篮板、5.0助攻、1.0失误；投篮70.0%，三分40.0%。"
+          },
+          {
+            "id": "playin",
+            "label": "附加赛",
+            "text": "尚无已完成比赛"
+          },
+          {
+            "id": "playoffs",
+            "label": "季后赛",
+            "text": "尚无已完成比赛"
+          },
+          {
+            "id": "highlight:0",
+            "label": "代表比赛 1",
+            "text": "第1季，常规赛，对孟菲斯灰熊，我的球队136比122获胜；21分、3篮板、5助攻。"
+          },
+          {
+            "id": "titles",
+            "label": "所选范围冠军记录",
+            "text": "所选范围没有已记录的冠军。不能自行编造其他奖项。"
+          }
+        ]
+      },
+      "narrative": {
+        "title": "持球核心的初登场：进攻亮点与样本局限",
+        "sections": [
+          {
+            "title": "主线",
+            "body": "当前生涯只覆盖第1季1场常规赛，球队1胜0负，赛季尚未归档；因此任何单季结论都只能视为极早期样本。该场对孟菲斯灰熊，球队136比122获胜，个人21分、3篮板、5助攻。结合整体场均21.0分、5.0助攻，持球核心定位在首秀中已有进攻产出，但1场样本不足以判断稳定性。",
+            "evidenceIds": [
+              "coverage",
+              "overall"
+            ]
+          },
+          {
+            "title": "转折",
+            "body": "首秀投篮70.0%、三分40.0%，进攻效率亮眼，但整体场均仅1.0次失误，说明样本极小，不能据此认定控球已成熟。球队单场136分且获胜，是积极信号，但未提供对手防守策略或比赛进程，不能把高分归因于某种战术。真正的转折尚未出现——赛季未归档，后续比赛才会检验持球核心角色能否持续。",
+            "evidenceIds": [
+              "overall",
+              "highlight:0"
+            ]
+          },
+          {
+            "title": "特点",
+            "body": "能力结构偏向进攻与速度：外线得分85、速度85、内线得分65，运球79、组织74，具备持球开发进攻的基础；内线防守80高于外线防守72，但身体56、篮板45偏弱，意味着对抗与篮板保护是明显短板。当前打法为持球核心，与组织74、运球79相配，但身体条件限制其冲击篮下和防守端换防的可靠性。",
+            "evidenceIds": [
+              "abilities",
+              "identity"
+            ]
+          }
+        ],
+        "nextSteps": [
+          {
+            "title": "建议",
+            "body": "在赛季尚未归档的阶段，优先用节间轮换控制负荷：可尝试26分钟预算，把体能留给持球发起和关键回合，代价是替补时段进攻组织可能下降。四种打法只能赛前更改，若继续持球核心，应接受身体56带来的对抗风险；若想保护篮板45的弱点，可赛前改打无球或均衡打法，但会牺牲部分球权。能力抽卡/继承/训练应优先补身体或篮板，而非继续堆外线得分。",
+            "evidenceIds": [
+              "abilities",
+              "identity"
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

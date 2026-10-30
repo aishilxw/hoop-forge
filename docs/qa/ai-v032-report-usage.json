@@ -1,0 +1,21 @@
+{
+  "providerCalls": 1,
+  "serverCacheHits": 0,
+  "inFlightReuse": 0,
+  "events": [
+    {
+      "kind": "report",
+      "promptVersion": "career-story-6",
+      "model": "deepseek-flash",
+      "at": "2026-10-30T01:49:00.405Z",
+      "outcome": "ok",
+      "metrics": {
+        "inputTokens": 1049,
+        "outputTokens": 1025,
+        "totalTokens": 2074,
+        "cachedInputTokens": 128,
+        "durationMs": 8312
+      }
+    }
+  ]
+}

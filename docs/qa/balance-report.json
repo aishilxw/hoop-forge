@@ -1,0 +1,12 @@
+{
+  "careers": 200,
+  "games": 8633,
+  "wins": 4359,
+  "winRate": 0.5049229699988417,
+  "championships": 72,
+  "meanPlayerPoints": 21.352252982740648,
+  "maxSaveBytes": 218921,
+  "method": "固定种子1–200，九维顺序贪心选不同卡，持球核心，不抽卡不训练；验证基线，不代表真实玩家留存或完整平衡。",
+  "dataStatus": "partial",
+  "dataVersion": "nba-2k26-final-2026-08-08-roster-2026-10-20-partial-v1"
+}

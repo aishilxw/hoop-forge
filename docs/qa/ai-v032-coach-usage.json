@@ -1,0 +1,35 @@
+{
+  "providerCalls": 2,
+  "serverCacheHits": 0,
+  "inFlightReuse": 0,
+  "events": [
+    {
+      "kind": "coach",
+      "promptVersion": "quarter-coach-1",
+      "model": "deepseek-flash",
+      "at": "2026-10-30T01:27:57.399Z",
+      "outcome": "ok",
+      "metrics": {
+        "inputTokens": 711,
+        "outputTokens": 217,
+        "totalTokens": 928,
+        "cachedInputTokens": 0,
+        "durationMs": 2629
+      }
+    },
+    {
+      "kind": "coach",
+      "promptVersion": "quarter-coach-1",
+      "model": "deepseek-flash",
+      "at": "2026-10-30T01:28:40.158Z",
+      "outcome": "ok",
+      "metrics": {
+        "inputTokens": 807,
+        "outputTokens": 192,
+        "totalTokens": 999,
+        "cachedInputTokens": 128,
+        "durationMs": 2146
+      }
+    }
+  ]
+}

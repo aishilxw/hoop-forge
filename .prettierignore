@@ -1,0 +1,8 @@
+node_modules
+dist
+/release/
+src/data/*.json
+data
+package-lock.json
+docs/plan.md
+docs/rules.md

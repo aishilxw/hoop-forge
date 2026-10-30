@@ -1,0 +1,3848 @@
+[
+  {
+    "team": "HOU",
+    "source": "https://nba.hupu.com/players/rockets",
+    "rows": [
+      {
+        "nameZh": "波格丹·波格丹诺维奇",
+        "nameEn": "Bogdan Bogdanović",
+        "number": "31",
+        "position": "G"
+      },
+      {
+        "nameZh": "小贾巴里·史密斯",
+        "nameEn": "Jabari Smith",
+        "number": "10",
+        "position": "F"
+      },
+      {
+        "nameZh": "塔里·伊森",
+        "nameEn": "Tari Eason",
+        "number": "17",
+        "position": "F"
+      },
+      {
+        "nameZh": "里德·谢泼德",
+        "nameEn": "Reed Sheppard",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "阿尔佩伦·申京",
+        "nameEn": "Alperen Şengün",
+        "number": "28",
+        "position": "C"
+      },
+      {
+        "nameZh": "克林特·卡佩拉",
+        "nameEn": "Clint Capela",
+        "number": "30",
+        "position": "C"
+      },
+      {
+        "nameZh": "马库斯·斯马特",
+        "nameEn": "Marcus Smart",
+        "number": "36",
+        "position": "G"
+      },
+      {
+        "nameZh": "以赛亚·克劳福德",
+        "nameEn": "Isaiah Crawford",
+        "number": "27",
+        "position": "F"
+      },
+      {
+        "nameZh": "布鲁斯·桑顿",
+        "nameEn": "Bruce Thornton",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "弗雷德·范弗利特",
+        "nameEn": "Fred VanVleet",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "奎迪尔·科普兰",
+        "nameEn": "Quadir Copeland",
+        "number": "25",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰肖恩·泰特",
+        "nameEn": "Jae'Sean Tate",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿门·汤普森",
+        "nameEn": "Amen Thompson",
+        "number": "1",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "朱利安·菲利普斯",
+        "nameEn": "Julian Phillips",
+        "number": "4",
+        "position": "F"
+      },
+      {
+        "nameZh": "奥斯卡·希布韦",
+        "nameEn": "Oscar Tshiebwe",
+        "number": "34",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "凯文·杜兰特",
+        "nameEn": "Kevin Durant",
+        "number": "7",
+        "position": "F"
+      },
+      {
+        "nameZh": "史蒂文·亚当斯",
+        "nameEn": "Steven Adams",
+        "number": "12",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "MEM",
+    "source": "https://nba.hupu.com/players/grizzlies",
+    "rows": [
+      {
+        "nameZh": "扎克·埃迪",
+        "nameEn": "Zach Edey",
+        "number": "14",
+        "position": "C"
+      },
+      {
+        "nameZh": "昆腾·波斯特",
+        "nameEn": "Quinten Post",
+        "number": "41",
+        "position": "C"
+      },
+      {
+        "nameZh": "卡梅隆·斯宾塞",
+        "nameEn": "Cam Spencer",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·威尔斯",
+        "nameEn": "Jaylen Wells",
+        "number": "0",
+        "position": "F"
+      },
+      {
+        "nameZh": "卡里姆·洛佩兹",
+        "nameEn": "Karim Lopez",
+        "number": "35",
+        "position": "F"
+      },
+      {
+        "nameZh": "卡梅隆·布泽尔",
+        "nameEn": "Cameron Boozer",
+        "number": "27",
+        "position": "F"
+      },
+      {
+        "nameZh": "以赛亚·斯图尔特",
+        "nameEn": "Isaiah Stewart",
+        "number": "28",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "杰拉米·格兰特",
+        "nameEn": "Jerami Grant",
+        "number": "3",
+        "position": "F"
+      },
+      {
+        "nameZh": "里奇·桑德斯",
+        "nameEn": "Richie Saunders",
+        "number": "",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡森·库珀",
+        "nameEn": "Carson Cooper",
+        "number": "20",
+        "position": "C"
+      },
+      {
+        "nameZh": "奥利维耶·马克桑斯·普罗斯珀",
+        "nameEn": "Olivier-Maxence Prosper",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "克里斯·默里",
+        "nameEn": "Kris Murray",
+        "number": "17",
+        "position": "F"
+      },
+      {
+        "nameZh": "泰勒·亨德里克斯",
+        "nameEn": "Taylor Hendricks",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "泰·杰罗姆",
+        "nameEn": "Ty Jerome",
+        "number": "2",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "格雷格·杰克逊二世",
+        "nameEn": "GG Jackson",
+        "number": "45",
+        "position": "F"
+      },
+      {
+        "nameZh": "沃尔特·克莱顿",
+        "nameEn": "Walter Clayton",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "塞德里克·考沃德",
+        "nameEn": "Cedric Coward",
+        "number": "23",
+        "position": "G"
+      },
+      {
+        "nameZh": "迈卡·皮维",
+        "nameEn": "Micah Peavy",
+        "number": "7",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "贾迈·马沙克",
+        "nameEn": "Jahmai Mashack",
+        "number": "21",
+        "position": "G"
+      },
+      {
+        "nameZh": "小斯科蒂·皮彭",
+        "nameEn": "Scotty Pippen",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾文·斯莫尔",
+        "nameEn": "Javon Small",
+        "number": "10",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "SAS",
+    "source": "https://nba.hupu.com/players/spurs",
+    "rows": [
+      {
+        "nameZh": "卢克·科内特",
+        "nameEn": "Luke Kornet",
+        "number": "7",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "RJ·戴维斯",
+        "nameEn": "R.J. Davis",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "马利克·威廉姆斯",
+        "nameEn": "Malik Williams",
+        "number": "35",
+        "position": "C"
+      },
+      {
+        "nameZh": "斯蒂芬·卡斯尔",
+        "nameEn": "Stephon Castle",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "德文·瓦塞尔",
+        "nameEn": "Devin Vassell",
+        "number": "24",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "哈里森·巴恩斯",
+        "nameEn": "Harrison Barnes",
+        "number": "40",
+        "position": "F"
+      },
+      {
+        "nameZh": "朱利安·尚彭尼",
+        "nameEn": "Julian Champagnie",
+        "number": "30",
+        "position": "F"
+      },
+      {
+        "nameZh": "小塔里斯·里德",
+        "nameEn": "Tarris Reed",
+        "number": "10",
+        "position": "C"
+      },
+      {
+        "nameZh": "杰登·奎因坦斯",
+        "nameEn": "Jayden Quaintance",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "雅科比·吉莱斯皮",
+        "nameEn": "Ja'Kobi Gillespie",
+        "number": "17",
+        "position": "G"
+      },
+      {
+        "nameZh": "马利克·布朗",
+        "nameEn": "Maliq Brown",
+        "number": "15",
+        "position": "F"
+      },
+      {
+        "nameZh": "乔丹·麦克劳克林",
+        "nameEn": "Jordan McLaughlin",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "大卫·琼斯",
+        "nameEn": "David Jones Garcia",
+        "number": "25",
+        "position": "G"
+      },
+      {
+        "nameZh": "维克托·文班亚马",
+        "nameEn": "Victor Wembanyama",
+        "number": "1",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "凯尔登·约翰逊",
+        "nameEn": "Keldon Johnson",
+        "number": "3",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "达龙·福克斯",
+        "nameEn": "De'Aaron Fox",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔恩·埃尔莫尔",
+        "nameEn": "Jon Elmore",
+        "number": "33",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡特·布莱恩特",
+        "nameEn": "Carter Bryant",
+        "number": "11",
+        "position": "F"
+      },
+      {
+        "nameZh": "迪伦·哈珀",
+        "nameEn": "Dylan Harper",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰隆·彼得",
+        "nameEn": "Taelon Peter",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "托拜厄斯·哈里斯",
+        "nameEn": "Tobias Harris",
+        "number": "23",
+        "position": "F"
+      }
+    ]
+  },
+  {
+    "team": "DAL",
+    "source": "https://nba.hupu.com/players/mavericks",
+    "rows": [
+      {
+        "nameZh": "穆萨·西塞",
+        "nameEn": "Moussa Cisse",
+        "number": "30",
+        "position": "C"
+      },
+      {
+        "nameZh": "约翰·波拉基达斯",
+        "nameEn": "John Poulakidas",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "马克斯·克里斯蒂",
+        "nameEn": "Max Christie",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "扎卡里·里萨切尔",
+        "nameEn": "Zaccharie Risacher",
+        "number": "10",
+        "position": "F"
+      },
+      {
+        "nameZh": "小莫雷兹·约翰逊",
+        "nameEn": "Morez Johnson",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "塞尔吉奥·德·拉雷亚",
+        "nameEn": "Sergio De Larrea",
+        "number": "55",
+        "position": "G"
+      },
+      {
+        "nameZh": "纳吉·马绍尔",
+        "nameEn": "Naji Marshall",
+        "number": "3",
+        "position": "F"
+      },
+      {
+        "nameZh": "桑迪·阿尔达马",
+        "nameEn": "Santi Aldama",
+        "number": "34",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "托比·拉瓦尔",
+        "nameEn": "Tobi Lawal",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "德怀特·鲍威尔",
+        "nameEn": "Dwight Powell",
+        "number": "7",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "德雷克·莱夫利二世",
+        "nameEn": "Dereck Lively",
+        "number": "2",
+        "position": "C"
+      },
+      {
+        "nameZh": "马库斯·萨瑟",
+        "nameEn": "Marcus Sasser",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰特·霍华德",
+        "nameEn": "Jett Howard",
+        "number": "13",
+        "position": "G"
+      },
+      {
+        "nameZh": "PJ·华盛顿",
+        "nameEn": "P.J. Washington",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯莱布·马丁",
+        "nameEn": "Caleb Martin",
+        "number": "16",
+        "position": "F"
+      },
+      {
+        "nameZh": "塞思·伦迪",
+        "nameEn": "Seth Lundy",
+        "number": "5",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "丹尼尔·加福德",
+        "nameEn": "Daniel Gafford",
+        "number": "21",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "塔里克·比贝罗维奇",
+        "nameEn": "Tarik Biberovic",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "库珀·弗拉格",
+        "nameEn": "Cooper Flagg",
+        "number": "32",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯里·欧文",
+        "nameEn": "Kyrie Irving",
+        "number": "11",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "NOP",
+    "source": "https://nba.hupu.com/players/pelicans",
+    "rows": [
+      {
+        "nameZh": "特雷·墨菲",
+        "nameEn": "Trey Murphy",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "赫伯特·琼斯",
+        "nameEn": "Herbert Jones",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "本尼迪克特·马瑟林",
+        "nameEn": "Bennedict Mathurin",
+        "number": "24",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "伊夫·蜜西",
+        "nameEn": "Yves Missi",
+        "number": "21",
+        "position": "C"
+      },
+      {
+        "nameZh": "布赖斯·麦高文斯",
+        "nameEn": "Bryce McGowens",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯莱布·休斯坦",
+        "nameEn": "Caleb Houstan",
+        "number": "33",
+        "position": "G"
+      },
+      {
+        "nameZh": "萨迪克·贝",
+        "nameEn": "Saddiq Bey",
+        "number": "41",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "克里斯蒂安·科洛科",
+        "nameEn": "Christian Koloko",
+        "number": "35",
+        "position": "C"
+      },
+      {
+        "nameZh": "朱利安·里斯",
+        "nameEn": "Julian Reese",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "AJ·约翰逊",
+        "nameEn": "AJ Johnson",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "马尔科·托多洛维奇",
+        "nameEn": "Karlo Matković",
+        "number": "17",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "特伦登·沃特福特",
+        "nameEn": "Trendon Watford",
+        "number": "9",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "贾伦·皮埃尔",
+        "nameEn": "Jaron Pierre",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "蔡恩·威廉森",
+        "nameEn": "Zion Williamson",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "马利克·迪亚",
+        "nameEn": "Malik Dia",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "科比·巴夫金",
+        "nameEn": "Kobe Bufkin",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "德章泰·默里",
+        "nameEn": "Dejounte Murray",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰里迈亚·费尔斯",
+        "nameEn": "Jeremiah Fears",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "德里克·奎因",
+        "nameEn": "Derik Queen",
+        "number": "22",
+        "position": "C"
+      },
+      {
+        "nameZh": "乔丹·普尔",
+        "nameEn": "Jordan Poole",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "德安德烈·乔丹",
+        "nameEn": "DeAndre Jordan",
+        "number": "6",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "LAL",
+    "source": "https://nba.hupu.com/players/lakers",
+    "rows": [
+      {
+        "nameZh": "科尔·斯威德",
+        "nameEn": "Cole Swider",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "克里斯·马尼翁",
+        "nameEn": "Chris Mañon",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯文·卢尼",
+        "nameEn": "Kevon Looney",
+        "number": "55",
+        "position": "F"
+      },
+      {
+        "nameZh": "亚瑟·卡鲁玛",
+        "nameEn": "Arthur Kaluma",
+        "number": "47",
+        "position": "F"
+      },
+      {
+        "nameZh": "沃克·凯斯勒",
+        "nameEn": "Walker Kessler",
+        "number": "14",
+        "position": "C"
+      },
+      {
+        "nameZh": "道尔顿·克内克特",
+        "nameEn": "Dalton Knecht",
+        "number": "4",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰克·拉拉维亚",
+        "nameEn": "Jake LaRavia",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "奥斯汀·里夫斯",
+        "nameEn": "Austin Reaves",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "桑德罗·马穆凯拉什维利",
+        "nameEn": "Sandro Mamukelashvili",
+        "number": "54",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "杰登·哈迪",
+        "nameEn": "Jaden Hardy",
+        "number": "7",
+        "position": "G"
+      },
+      {
+        "nameZh": "昆廷·格兰姆斯",
+        "nameEn": "Quentin Grimes",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "布朗尼·詹姆斯",
+        "nameEn": "Bronny James",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡梅隆·卡尔",
+        "nameEn": "Cameron Carr",
+        "number": "43",
+        "position": "G"
+      },
+      {
+        "nameZh": "宰伊尔·威廉姆斯",
+        "nameEn": "Ziaire Williams",
+        "number": "11",
+        "position": "F"
+      },
+      {
+        "nameZh": "AK·奥克雷克",
+        "nameEn": "AK Okereke",
+        "number": "31",
+        "position": "F"
+      },
+      {
+        "nameZh": "卢卡·东契奇",
+        "nameEn": "Luka Dončić",
+        "number": "77",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "拉斐尔·卡斯特罗",
+        "nameEn": "Rafael Castro",
+        "number": "",
+        "position": "C"
+      },
+      {
+        "nameZh": "科林·塞克斯顿",
+        "nameEn": "Collin Sexton",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "马蒂斯·赛布尔",
+        "nameEn": "Matisse Thybulle",
+        "number": "4",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "贾里德·范德比尔特",
+        "nameEn": "Jarred Vanderbilt",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿杜·蒂耶罗",
+        "nameEn": "Adou Thiero",
+        "number": "1",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "PHX",
+    "source": "https://nba.hupu.com/players/suns",
+    "rows": [
+      {
+        "nameZh": "贾马雷·布耶",
+        "nameEn": "Jamaree Bouyea",
+        "number": "17",
+        "position": "G"
+      },
+      {
+        "nameZh": "CJ·亨特利",
+        "nameEn": "CJ Huntley",
+        "number": "21",
+        "position": "F"
+      },
+      {
+        "nameZh": "马克·威廉姆斯",
+        "nameEn": "Mark Williams",
+        "number": "25",
+        "position": "C"
+      },
+      {
+        "nameZh": "以赛亚·利弗斯",
+        "nameEn": "Isaiah Livers",
+        "number": "",
+        "position": "F"
+      },
+      {
+        "nameZh": "德文·布克",
+        "nameEn": "Devin Booker",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·格林",
+        "nameEn": "Jalen Green",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "瑞安·邓恩",
+        "nameEn": "Ryan Dunn",
+        "number": "0",
+        "position": "F"
+      },
+      {
+        "nameZh": "奥索·伊戈达罗",
+        "nameEn": "Oso Ighodaro",
+        "number": "11",
+        "position": "F"
+      },
+      {
+        "nameZh": "科阿·皮特",
+        "nameEn": "Koa Peat",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "帕特·斯潘塞",
+        "nameEn": "Pat Spencer",
+        "number": "",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔丹·古德温",
+        "nameEn": "Jordan Goodwin",
+        "number": "23",
+        "position": "G"
+      },
+      {
+        "nameZh": "海伍德·海史密斯",
+        "nameEn": "Haywood Highsmith",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "迈尔斯·布里奇斯",
+        "nameEn": "Miles Bridges",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "卡曼·马卢阿奇",
+        "nameEn": "Khaman Maluach",
+        "number": "10",
+        "position": "C"
+      },
+      {
+        "nameZh": "狄龙·布鲁克斯",
+        "nameEn": "Dillon Brooks",
+        "number": "3",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "卢克·肯纳德",
+        "nameEn": "Luke Kennard",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "科比·布雷亚",
+        "nameEn": "Koby Brea",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "拉希尔・弗莱明",
+        "nameEn": "Rasheer Fleming",
+        "number": "20",
+        "position": "F"
+      },
+      {
+        "nameZh": "科林·吉莱斯皮",
+        "nameEn": "Collin Gillespie",
+        "number": "12",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "LAC",
+    "source": "https://nba.hupu.com/players/clippers",
+    "rows": [
+      {
+        "nameZh": "布雷克·韦斯利",
+        "nameEn": "Blake Wesley",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "以赛亚·杰克逊",
+        "nameEn": "Isaiah Jackson",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "布拉德利·比尔",
+        "nameEn": "Bradley Beal",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡姆·克里斯蒂",
+        "nameEn": "Cam Christie",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "基顿·瓦格勒",
+        "nameEn": "Keaton Wagler",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "马克斯·斯特鲁斯",
+        "nameEn": "Max Strus",
+        "number": "31",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "尼克·马丁内利",
+        "nameEn": "Nick Martinelli",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "巴巴·米勒",
+        "nameEn": "Baba Miller",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "八村垒",
+        "nameEn": "Rui Hachimura",
+        "number": "28",
+        "position": "F"
+      },
+      {
+        "nameZh": "小德里克·琼斯",
+        "nameEn": "Derrick Jones",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "布兰登·英格拉姆",
+        "nameEn": "Brandon Ingram",
+        "number": "7",
+        "position": "F"
+      },
+      {
+        "nameZh": "克里斯·邓恩",
+        "nameEn": "Kris Dunn",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "达里厄斯·加兰",
+        "nameEn": "Darius Garland",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "格雷迪·迪克",
+        "nameEn": "Gradey Dick",
+        "number": "9",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "河村勇辉",
+        "nameEn": "Yuki Kawamura",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·皮克特",
+        "nameEn": "Jalen Pickett",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔丹·米勒",
+        "nameEn": "Jordan Miller",
+        "number": "22",
+        "position": "G"
+      },
+      {
+        "nameZh": "亚尼克·科南·尼德豪泽",
+        "nameEn": "Yanic Konan Niederhäuser",
+        "number": "14",
+        "position": "C"
+      },
+      {
+        "nameZh": "布鲁克·洛佩斯",
+        "nameEn": "Brook Lopez",
+        "number": "11",
+        "position": "C"
+      },
+      {
+        "nameZh": "科比·桑德斯",
+        "nameEn": "Kobe Sanders",
+        "number": "4",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "GSW",
+    "source": "https://nba.hupu.com/players/warriors",
+    "rows": [
+      {
+        "nameZh": "达伦·特里",
+        "nameEn": "Dalen Terry",
+        "number": "21",
+        "position": "F"
+      },
+      {
+        "nameZh": "摩西·穆迪",
+        "nameEn": "Moses Moody",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯塔普斯·波尔津吉斯",
+        "nameEn": "Kristaps Porziņģis",
+        "number": "7",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "LJ·克赖尔",
+        "nameEn": "LJ Cryer",
+        "number": "18",
+        "position": "G"
+      },
+      {
+        "nameZh": "桂·桑托斯",
+        "nameEn": "Gui Santos",
+        "number": "15",
+        "position": "F"
+      },
+      {
+        "nameZh": "查尔斯·巴锡",
+        "nameEn": "Charles Bassey",
+        "number": "28",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "亚克塞尔·伦德博格",
+        "nameEn": "Yaxel Lendeborg",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "德雷蒙德·格林",
+        "nameEn": "Draymond Green",
+        "number": "23",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "加里·佩顿二世",
+        "nameEn": "Gary Payton",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "布兰丁·波杰姆斯基",
+        "nameEn": "Brandin Podziemski",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "格雷厄姆·艾克",
+        "nameEn": "Graham Ike",
+        "number": "45",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "布兰登·威廉姆斯",
+        "nameEn": "Brandon Williams",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "马莱维·莱昂斯",
+        "nameEn": "Malevy Leons",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "丹东尼·梅尔顿",
+        "nameEn": "De'Anthony Melton",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔治·尼昂",
+        "nameEn": "Georges Niang",
+        "number": "32",
+        "position": "F"
+      },
+      {
+        "nameZh": "艾尔·霍福德",
+        "nameEn": "Al Horford",
+        "number": "20",
+        "position": "C"
+      },
+      {
+        "nameZh": "亚历克斯·图伊",
+        "nameEn": "Alex Toohey",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "威尔·理查德",
+        "nameEn": "Will Richard",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "斯蒂芬·库里",
+        "nameEn": "Stephen Curry",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "迈尔斯·凯利",
+        "nameEn": "Miles Kelly",
+        "number": "26",
+        "position": "G"
+      },
+      {
+        "nameZh": "吉米·巴特勒",
+        "nameEn": "Jimmy Butler",
+        "number": "10",
+        "position": "F"
+      }
+    ]
+  },
+  {
+    "team": "SAC",
+    "source": "https://nba.hupu.com/players/kings",
+    "rows": [
+      {
+        "nameZh": "迪伦·卡德韦尔",
+        "nameEn": "Dylan Cardwell",
+        "number": "32",
+        "position": "C"
+      },
+      {
+        "nameZh": "亚当·弗拉格勒",
+        "nameEn": "Adam Flagler",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "基根·穆雷",
+        "nameEn": "Keegan Murray",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "普雷舍斯·阿丘瓦",
+        "nameEn": "Precious Achiuwa",
+        "number": "9",
+        "position": "F"
+      },
+      {
+        "nameZh": "扎克·拉文",
+        "nameEn": "Zach LaVine",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "特里斯滕·牛顿",
+        "nameEn": "Tristen Newton",
+        "number": "00",
+        "position": "G"
+      },
+      {
+        "nameZh": "亚历克斯·卡拉班",
+        "nameEn": "Alex Karaban",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "小达里厄斯·阿卡夫",
+        "nameEn": "Darius Acuff",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔纳森·莫格博",
+        "nameEn": "Jonathan Mogbo",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "埃尔弗里德·佩顿",
+        "nameEn": "Elfrid Payton",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "戴奎翁·普劳登",
+        "nameEn": "Daeqwon Plowden",
+        "number": "29",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "伊曼纽尔·夏普",
+        "nameEn": "Emanuel Sharp",
+        "number": "34",
+        "position": "G"
+      },
+      {
+        "nameZh": "本·西蒙斯",
+        "nameEn": "Ben Simmons",
+        "number": "25",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "德安德烈·亨特",
+        "nameEn": "De'Andre Hunter",
+        "number": "15",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "多曼塔斯·萨博尼斯",
+        "nameEn": "Domantas Sabonis",
+        "number": "11",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "马利克·蒙克",
+        "nameEn": "Malik Monk",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "尼克·克利福德",
+        "nameEn": "Nique Clifford",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "里基·布莱克",
+        "nameEn": "Leaky Black",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "马克西姆·雷诺",
+        "nameEn": "Maxime Raynaud",
+        "number": "42",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "OKC",
+    "source": "https://nba.hupu.com/players/thunder",
+    "rows": [
+      {
+        "nameZh": "杰伦·威廉姆斯",
+        "nameEn": "Jalen Williams",
+        "number": "8",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "切特·霍姆格伦",
+        "nameEn": "Chet Holmgren",
+        "number": "7",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "贾里德·麦凯恩",
+        "nameEn": "Jared McCain",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰林·威廉姆斯",
+        "nameEn": "Jaylin Williams",
+        "number": "6",
+        "position": "F"
+      },
+      {
+        "nameZh": "尼古拉·托皮奇",
+        "nameEn": "Nikola Topić",
+        "number": "44",
+        "position": "G"
+      },
+      {
+        "nameZh": "阿杰·米切尔",
+        "nameEn": "Ajay Mitchell",
+        "number": "25",
+        "position": "G"
+      },
+      {
+        "nameZh": "阿代·马拉",
+        "nameEn": "Aday Mara",
+        "number": "15",
+        "position": "C"
+      },
+      {
+        "nameZh": "本内特·斯特茨",
+        "nameEn": "Bennett Stirtz",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "肯里奇·威廉姆斯",
+        "nameEn": "Kenrich Williams",
+        "number": "34",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "以赛亚·哈尔滕施泰因",
+        "nameEn": "Isaiah Hartenstein",
+        "number": "55",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "奥特加·奥韦",
+        "nameEn": "Otega Oweh",
+        "number": "13",
+        "position": "G"
+      },
+      {
+        "nameZh": "约什·迪克斯",
+        "nameEn": "Josh Dix",
+        "number": "21",
+        "position": "G"
+      },
+      {
+        "nameZh": "亚历克斯·卡鲁索",
+        "nameEn": "Alex Caruso",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡森·华莱士",
+        "nameEn": "Cason Wallace",
+        "number": "22",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯托夫·蒂利",
+        "nameEn": "Christoph Tilly",
+        "number": "33",
+        "position": "C"
+      },
+      {
+        "nameZh": "谢伊·吉尔杰斯·亚历山大",
+        "nameEn": "Shai Gilgeous-Alexander",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "安东尼·普里查德",
+        "nameEn": "Anthony Pritchard",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "安德鲁·霍利菲尔德",
+        "nameEn": "Andrew Holifield",
+        "number": "0",
+        "position": "F"
+      },
+      {
+        "nameZh": "扎伊尔·史密斯",
+        "nameEn": "Zhaire Smith",
+        "number": "19",
+        "position": "G"
+      },
+      {
+        "nameZh": "托马斯·索伯",
+        "nameEn": "Thomas Sorber",
+        "number": "12",
+        "position": "C"
+      },
+      {
+        "nameZh": "布鲁克斯·巴恩海泽",
+        "nameEn": "Brooks Barnhizer",
+        "number": "23",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "MIN",
+    "source": "https://nba.hupu.com/players/timberwolves",
+    "rows": [
+      {
+        "nameZh": "阿约·多森姆",
+        "nameEn": "Ayo Dosunmu",
+        "number": "13",
+        "position": "G"
+      },
+      {
+        "nameZh": "诺恰德·奥米尔",
+        "nameEn": "Norchad Omier",
+        "number": "55",
+        "position": "F"
+      },
+      {
+        "nameZh": "纳肖恩·海兰德",
+        "nameEn": "Bones Hyland",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔纳森·库明加",
+        "nameEn": "Jonathan Kuminga",
+        "number": "24",
+        "position": "F"
+      },
+      {
+        "nameZh": "小特伦斯·香农",
+        "nameEn": "Terrence Shannon",
+        "number": "4",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "安东尼·爱德华兹",
+        "nameEn": "Anthony Edwards",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "拉梅洛·鲍尔",
+        "nameEn": "LaMelo Ball",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "科迪·威廉姆斯",
+        "nameEn": "Cody Williams",
+        "number": "9",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷·莱尔斯",
+        "nameEn": "Trey Lyles",
+        "number": "41",
+        "position": "F"
+      },
+      {
+        "nameZh": "安东尼奥·里夫斯",
+        "nameEn": "Antonio Reeves",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "恩里克·弗里曼",
+        "nameEn": "Enrique Freeman",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰登·麦克丹尼尔斯",
+        "nameEn": "Jaden McDaniels",
+        "number": "3",
+        "position": "F"
+      },
+      {
+        "nameZh": "锡恩·普林",
+        "nameEn": "Zyon Pullin",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "小肯扬·马丁",
+        "nameEn": "KJ Martin",
+        "number": "99",
+        "position": "F"
+      },
+      {
+        "nameZh": "以赛亚·埃文斯",
+        "nameEn": "Isaiah Evans",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "唐特·迪温琴佐",
+        "nameEn": "Donte DiVincenzo",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·克拉克",
+        "nameEn": "Jaylen Clark",
+        "number": "7",
+        "position": "G"
+      },
+      {
+        "nameZh": "若昂·贝兰热",
+        "nameEn": "Joan Beringer",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "德鲁·蒂米",
+        "nameEn": "Drew Timme",
+        "number": "17",
+        "position": "F"
+      },
+      {
+        "nameZh": "鲁迪·戈贝尔",
+        "nameEn": "Rudy Gobert",
+        "number": "27",
+        "position": "C"
+      },
+      {
+        "nameZh": "罗科·齐卡尔斯基",
+        "nameEn": "Rocco Zikarsky",
+        "number": "44",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "POR",
+    "source": "https://nba.hupu.com/players/blazers",
+    "rows": [
+      {
+        "nameZh": "朱·霍勒迪",
+        "nameEn": "Jrue Holiday",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯·扬布拉德",
+        "nameEn": "Chris Youngblood",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "多诺万·克林根",
+        "nameEn": "Donovan Clingan",
+        "number": "23",
+        "position": "C"
+      },
+      {
+        "nameZh": "德尼·阿夫迪亚",
+        "nameEn": "Deni Avdija",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "谢登·夏普",
+        "nameEn": "Shaedon Sharpe",
+        "number": "17",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰森·肯特",
+        "nameEn": "Jayson Kent",
+        "number": "29",
+        "position": "F"
+      },
+      {
+        "nameZh": "达米安·利拉德",
+        "nameEn": "Damian Lillard",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "维特·克雷伊奇",
+        "nameEn": "Vít Krejčí",
+        "number": "27",
+        "position": "G"
+      },
+      {
+        "nameZh": "布兰登·卡尔森",
+        "nameEn": "Branden Carlson",
+        "number": "10",
+        "position": "C"
+      },
+      {
+        "nameZh": "米卡·波特",
+        "nameEn": "Micah Potter",
+        "number": "9",
+        "position": "C"
+      },
+      {
+        "nameZh": "贾·莫兰特",
+        "nameEn": "Ja Morant",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "罗伯特·威廉姆斯",
+        "nameEn": "Robert Williams",
+        "number": "35",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "图马尼·卡马拉",
+        "nameEn": "Toumani Camara",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "斯库特·亨德森",
+        "nameEn": "Scoot Henderson",
+        "number": "00",
+        "position": "G"
+      },
+      {
+        "nameZh": "西迪·西索科",
+        "nameEn": "Sidy Cissoko",
+        "number": "91",
+        "position": "G"
+      },
+      {
+        "nameZh": "杨瀚森",
+        "nameEn": "Yang Hansen",
+        "number": "16",
+        "position": "C"
+      },
+      {
+        "nameZh": "约翰·汤杰",
+        "nameEn": "John Tonje",
+        "number": "8",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "DEN",
+    "source": "https://nba.hupu.com/players/nuggets",
+    "rows": [
+      {
+        "nameZh": "瑞安·内姆布哈德",
+        "nameEn": "Ryan Nembhard",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯琴·布朗",
+        "nameEn": "Christian Braun",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "戴恩·古德温",
+        "nameEn": "Dane Goodwin",
+        "number": "20",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰厄斯·琼斯",
+        "nameEn": "Tyus Jones",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "达隆·霍姆斯二世",
+        "nameEn": "DaRon Holmes",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "齐克·纳吉",
+        "nameEn": "Zeke Nnaji",
+        "number": "22",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "尼古拉·约基奇",
+        "nameEn": "Nikola Jokić",
+        "number": "15",
+        "position": "C"
+      },
+      {
+        "nameZh": "阿龙·戈登",
+        "nameEn": "Aaron Gordon",
+        "number": "32",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷冯·布拉齐尔",
+        "nameEn": "Trevon Brazile",
+        "number": "7",
+        "position": "F"
+      },
+      {
+        "nameZh": "布莱斯·霍普金斯",
+        "nameEn": "Bryce Hopkins",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿尔法·迪亚洛",
+        "nameEn": "Alpha Diallo",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "马文·巴格利",
+        "nameEn": "Marvin Bagley",
+        "number": "3",
+        "position": "F"
+      },
+      {
+        "nameZh": "朱利安·斯特劳瑟",
+        "nameEn": "Julian Strawther",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡姆·惠特莫尔",
+        "nameEn": "Cam Whitmore",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "斯宾塞·琼斯",
+        "nameEn": "Spencer Jones",
+        "number": "21",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾马尔·默里",
+        "nameEn": "Jamal Murray",
+        "number": "27",
+        "position": "G"
+      },
+      {
+        "nameZh": "伊曼纽尔·米勒",
+        "nameEn": "Emanuel Miller",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "克里斯托夫·蒂利",
+        "nameEn": "Coleman Hawkins",
+        "number": "43",
+        "position": "F"
+      },
+      {
+        "nameZh": "卡梅伦·约翰逊",
+        "nameEn": "Cameron Johnson",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "朗尼·沃克",
+        "nameEn": "Lonnie Walker",
+        "number": "16",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "德马尔·德罗赞",
+        "nameEn": "DeMar DeRozan",
+        "number": "10",
+        "position": "G-F"
+      }
+    ]
+  },
+  {
+    "team": "UTA",
+    "source": "https://nba.hupu.com/players/jazz",
+    "rows": [
+      {
+        "nameZh": "小贾伦·杰克逊",
+        "nameEn": "Jaren Jackson",
+        "number": "20",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "以赛亚·科利尔",
+        "nameEn": "Isaiah Collier",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "哈里森·英格拉姆",
+        "nameEn": "Harrison Ingram",
+        "number": "00",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯尔·菲利波夫斯基",
+        "nameEn": "Kyle Filipowski",
+        "number": "2",
+        "position": "C"
+      },
+      {
+        "nameZh": "优素福·努尔基奇",
+        "nameEn": "Jusuf Nurkić",
+        "number": "30",
+        "position": "C"
+      },
+      {
+        "nameZh": "达林·彼得森",
+        "nameEn": "Darryn Peterson",
+        "number": "22",
+        "position": "G"
+      },
+      {
+        "nameZh": "布莱克·辛森",
+        "nameEn": "Blake Hinson",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "约什·格林",
+        "nameEn": "Josh Green",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "特雷·亚历山大",
+        "nameEn": "Trey Alexander",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾克森·海斯",
+        "nameEn": "Jaxson Hayes",
+        "number": "11",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "穆罕默德·班巴",
+        "nameEn": "Mo Bamba",
+        "number": "44",
+        "position": "C"
+      },
+      {
+        "nameZh": "乔纳斯·艾杜",
+        "nameEn": "Jonas Aidoo",
+        "number": "13",
+        "position": "C"
+      },
+      {
+        "nameZh": "基扬特·乔治",
+        "nameEn": "Keyonte George",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "布赖斯·森萨博",
+        "nameEn": "Brice Sensabaugh",
+        "number": "28",
+        "position": "F"
+      },
+      {
+        "nameZh": "劳里·马尔卡宁",
+        "nameEn": "Lauri Markkanen",
+        "number": "23",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "泰勒·芬克",
+        "nameEn": "Taylor Funk",
+        "number": "",
+        "position": "F"
+      },
+      {
+        "nameZh": "穆罕默德·瓦格",
+        "nameEn": "Mohamed Wague",
+        "number": "",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "斯维亚托斯拉夫·米哈伊柳克",
+        "nameEn": "Svi Mykhailiuk",
+        "number": "10",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "约什·奥科吉",
+        "nameEn": "Josh Okogie",
+        "number": "21",
+        "position": "G"
+      },
+      {
+        "nameZh": "埃斯·贝利",
+        "nameEn": "Ace Bailey",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "塔马尔·贝茨",
+        "nameEn": "Tamar Bates",
+        "number": "0",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "PHI",
+    "source": "https://nba.hupu.com/players/76ers",
+    "rows": [
+      {
+        "nameZh": "塔科·法尔",
+        "nameEn": "Tacko Fall",
+        "number": "99",
+        "position": "C"
+      },
+      {
+        "nameZh": "圣·托马斯",
+        "nameEn": "Saint Thomas",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "狄龙·琼斯",
+        "nameEn": "Dillon Jones",
+        "number": "35",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾巴里·沃克",
+        "nameEn": "Jabari Walker",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "泰雷斯·马克西",
+        "nameEn": "Tyrese Maxey",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "多米尼克·巴洛",
+        "nameEn": "Dominick Barlow",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿里尔·胡克波尔蒂",
+        "nameEn": "Ariel Hukporti",
+        "number": "55",
+        "position": "C"
+      },
+      {
+        "nameZh": "阿德姆·博纳",
+        "nameEn": "Adem Bona",
+        "number": "30",
+        "position": "F"
+      },
+      {
+        "nameZh": "拉巴伦·菲隆二世",
+        "nameEn": "Labaron Philon",
+        "number": "00",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾斯汀·爱德华兹",
+        "nameEn": "Justin Edwards",
+        "number": "11",
+        "position": "F"
+      },
+      {
+        "nameZh": "乔尔·恩比德",
+        "nameEn": "Joel Embiid",
+        "number": "21",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "贾马尔·尼尔森",
+        "nameEn": "Jameer Nelson",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "勒布朗·詹姆斯",
+        "nameEn": "LeBron James",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰伦·布朗",
+        "nameEn": "Jaylen Brown",
+        "number": "7",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "杜克·迈尔斯",
+        "nameEn": "Duke Miles",
+        "number": "31",
+        "position": "G"
+      },
+      {
+        "nameZh": "安芬尼·西蒙斯",
+        "nameEn": "Anfernee Simons",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "拉扬·吕佩尔",
+        "nameEn": "Rayan Rupert",
+        "number": "21",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "肯塔维厄斯·考德威尔·波普",
+        "nameEn": "Kentavious Caldwell-Pope",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "VJ·埃奇库姆",
+        "nameEn": "VJ Edgecombe",
+        "number": "77",
+        "position": "G"
+      },
+      {
+        "nameZh": "迪恩·韦德",
+        "nameEn": "Dean Wade",
+        "number": "45",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "凯莱布·乐福",
+        "nameEn": "Caleb Love",
+        "number": "2",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "TOR",
+    "source": "https://nba.hupu.com/players/raptors",
+    "rows": [
+      {
+        "nameZh": "马拉奇·史密斯",
+        "nameEn": "Malachi Smith",
+        "number": "18",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾科比·沃尔特",
+        "nameEn": "Ja'Kobe Walter",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯尔·安德森",
+        "nameEn": "Kyle Anderson",
+        "number": "13",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "泰瑞克·基",
+        "nameEn": "Tyreke Key",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "伊曼纽尔·奎克利",
+        "nameEn": "Immanuel Quickley",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "斯科蒂·巴恩斯",
+        "nameEn": "Scottie Barnes",
+        "number": "4",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "贾马尔·谢德",
+        "nameEn": "Jamal Shead",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "艾伦·格雷夫斯",
+        "nameEn": "Allen Graves",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰登·布拉德利",
+        "nameEn": "Jaden Bradley",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "RJ·巴雷特",
+        "nameEn": "RJ Barrett",
+        "number": "9",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "尼马里·伯内特",
+        "nameEn": "Nimari Burnett",
+        "number": "25",
+        "position": "G"
+      },
+      {
+        "nameZh": "雅各布·珀尔特尔",
+        "nameEn": "Jakob Poeltl",
+        "number": "19",
+        "position": "C"
+      },
+      {
+        "nameZh": "内特·比特",
+        "nameEn": "Nate Bittle",
+        "number": "12",
+        "position": "C"
+      },
+      {
+        "nameZh": "杰米森·巴特尔",
+        "nameEn": "Jamison Battle",
+        "number": "77",
+        "position": "F"
+      },
+      {
+        "nameZh": "泰森·德根哈特",
+        "nameEn": "Tyson Degenhart",
+        "number": "",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷斯·杰克逊·戴维斯",
+        "nameEn": "Trayce Jackson-Davis",
+        "number": "32",
+        "position": "F"
+      },
+      {
+        "nameZh": "科林·默里·博伊尔斯",
+        "nameEn": "Collin Murray-Boyles",
+        "number": "30",
+        "position": "F"
+      },
+      {
+        "nameZh": "科怀·伦纳德",
+        "nameEn": "Kawhi Leonard",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿利贾·马丁",
+        "nameEn": "Alijah Martin",
+        "number": "55",
+        "position": "G"
+      },
+      {
+        "nameZh": "特雷·杰米森",
+        "nameEn": "Trey Jemison",
+        "number": "50",
+        "position": "C"
+      },
+      {
+        "nameZh": "查基·赫本",
+        "nameEn": "Chucky Hepburn",
+        "number": "24",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "BOS",
+    "source": "https://nba.hupu.com/players/celtics",
+    "rows": [
+      {
+        "nameZh": "萨姆·豪瑟",
+        "nameEn": "Sam Hauser",
+        "number": "30",
+        "position": "F"
+      },
+      {
+        "nameZh": "卢卡·加尔扎",
+        "nameEn": "Luka Garza",
+        "number": "52",
+        "position": "C"
+      },
+      {
+        "nameZh": "贝勒·沙伊尔曼",
+        "nameEn": "Baylor Scheierman",
+        "number": "55",
+        "position": "G"
+      },
+      {
+        "nameZh": "德文·卡特",
+        "nameEn": "Devin Carter",
+        "number": "22",
+        "position": "G"
+      },
+      {
+        "nameZh": "海登·格雷",
+        "nameEn": "Hayden Gray",
+        "number": "44",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯·瑟纳克二世",
+        "nameEn": "Chris Cenac",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "佩顿·普里查德",
+        "nameEn": "Payton Pritchard",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "内米亚斯·克塔",
+        "nameEn": "Neemias Queta",
+        "number": "88",
+        "position": "C"
+      },
+      {
+        "nameZh": "狄龙·米切尔",
+        "nameEn": "Dillon Mitchell",
+        "number": "20",
+        "position": "F"
+      },
+      {
+        "nameZh": "保罗·乔治",
+        "nameEn": "Paul George",
+        "number": "13",
+        "position": "F"
+      },
+      {
+        "nameZh": "迈克·康利",
+        "nameEn": "Mike Conley",
+        "number": "45",
+        "position": "G"
+      },
+      {
+        "nameZh": "加布·麦格罗桑",
+        "nameEn": "Gabe McGlothan",
+        "number": "41",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰森·塔特姆",
+        "nameEn": "Jayson Tatum",
+        "number": "0",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "塔克·德弗里斯",
+        "nameEn": "Tucker DeVries",
+        "number": "26",
+        "position": "F"
+      },
+      {
+        "nameZh": "乔丹·沃尔什",
+        "nameEn": "Jordan Walsh",
+        "number": "27",
+        "position": "G"
+      },
+      {
+        "nameZh": "米洛斯·乌赞",
+        "nameEn": "Milos Uzan",
+        "number": "29",
+        "position": "G"
+      },
+      {
+        "nameZh": "米切尔·罗宾逊",
+        "nameEn": "Mitchell Robinson",
+        "number": "4",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "雨果·冈萨雷斯",
+        "nameEn": "Hugo González",
+        "number": "28",
+        "position": "G"
+      },
+      {
+        "nameZh": "德里克·怀特",
+        "nameEn": "Derrick White",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "阿马里·威廉姆斯",
+        "nameEn": "Amari Williams",
+        "number": "77",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "罗恩·哈珀",
+        "nameEn": "Ron Harper",
+        "number": "13",
+        "position": "G-F"
+      }
+    ]
+  },
+  {
+    "team": "NYK",
+    "source": "https://nba.hupu.com/players/knicks",
+    "rows": [
+      {
+        "nameZh": "约瑟·阿尔瓦拉多",
+        "nameEn": "Jose Alvarado",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡尔·安东尼·唐斯",
+        "nameEn": "Karl-Anthony Towns",
+        "number": "32",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "詹姆斯·怀斯曼",
+        "nameEn": "James Wiseman",
+        "number": "11",
+        "position": "C"
+      },
+      {
+        "nameZh": "帕科姆·达迪耶",
+        "nameEn": "Pacôme Dadiet",
+        "number": "4",
+        "position": "F"
+      },
+      {
+        "nameZh": "迈尔斯·麦克布莱德",
+        "nameEn": "Miles McBride",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "安德烈·德拉蒙德",
+        "nameEn": "Andre Drummond",
+        "number": "0",
+        "position": "C"
+      },
+      {
+        "nameZh": "凯文·麦卡勒",
+        "nameEn": "Kevin McCullar",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰勒·科勒克",
+        "nameEn": "Tyler Kolek",
+        "number": "13",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔丹·克拉克森",
+        "nameEn": "Jordan Clarkson",
+        "number": "00",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰勒·尼克尔",
+        "nameEn": "Tyler Nickel",
+        "number": "55",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰登·埃金斯",
+        "nameEn": "Jaden Akins",
+        "number": "14",
+        "position": "G"
+      },
+      {
+        "nameZh": "米卡尔·布里奇斯",
+        "nameEn": "Mikal Bridges",
+        "number": "25",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "兰德里·沙梅特",
+        "nameEn": "Landry Shamet",
+        "number": "44",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·布伦森",
+        "nameEn": "Jalen Brunson",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "约什·哈特",
+        "nameEn": "Josh Hart",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "穆罕默德·迪亚瓦拉",
+        "nameEn": "Mohamed Diawara",
+        "number": "51",
+        "position": "F"
+      },
+      {
+        "nameZh": "OG·阿奴诺比",
+        "nameEn": "OG Anunoby",
+        "number": "8",
+        "position": "F-G"
+      }
+    ]
+  },
+  {
+    "team": "BKN",
+    "source": "https://nba.hupu.com/players/nets",
+    "rows": [
+      {
+        "nameZh": "基恩·埃利斯",
+        "nameEn": "Keon Ellis",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "钱尼·约翰逊",
+        "nameEn": "Chaney Johnson",
+        "number": "31",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "丹·丹雅",
+        "nameEn": "Dain Dainja",
+        "number": "42",
+        "position": "F"
+      },
+      {
+        "nameZh": "约什·米诺特",
+        "nameEn": "Josh Minott",
+        "number": "00",
+        "position": "F"
+      },
+      {
+        "nameZh": "戴罗恩·夏普",
+        "nameEn": "Day'Ron Sharpe",
+        "number": "20",
+        "position": "C"
+      },
+      {
+        "nameZh": "格兰特·尼尔森",
+        "nameEn": "Grant Nelson",
+        "number": "16",
+        "position": "F"
+      },
+      {
+        "nameZh": "朱利叶斯·兰德尔",
+        "nameEn": "Julius Randle",
+        "number": "30",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "约书亚·杰斐逊",
+        "nameEn": "Joshua Jefferson",
+        "number": "9",
+        "position": "F"
+      },
+      {
+        "nameZh": "米克尔·布朗二世",
+        "nameEn": "Mikel Brown",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰勒·比洛多",
+        "nameEn": "Tyler Bilodeau",
+        "number": "34",
+        "position": "F"
+      },
+      {
+        "nameZh": "小迈克尔·波特",
+        "nameEn": "Michael Porter",
+        "number": "17",
+        "position": "F"
+      },
+      {
+        "nameZh": "诺厄·克洛尼",
+        "nameEn": "Noah Clowney",
+        "number": "21",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "本·汉姆里胡斯",
+        "nameEn": "Ben Humrichous",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "诺兰·特拉奥雷",
+        "nameEn": "Nolan Traore",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "丹尼·沃尔夫",
+        "nameEn": "Danny Wolf",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "叶戈尔·杰明",
+        "nameEn": "Egor Dëmin",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "德雷克·鲍威尔",
+        "nameEn": "Drake Powell",
+        "number": "4",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "本·萨拉夫",
+        "nameEn": "Ben Saraf",
+        "number": "77",
+        "position": "G"
+      },
+      {
+        "nameZh": "莫里茨·瓦格纳",
+        "nameEn": "Moritz Wagner",
+        "number": "13",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "特伦斯·曼",
+        "nameEn": "Terance Mann",
+        "number": "14",
+        "position": "G-F"
+      }
+    ]
+  },
+  {
+    "team": "ATL",
+    "source": "https://nba.hupu.com/players/hawks",
+    "rows": [
+      {
+        "nameZh": "杰伦·约翰逊",
+        "nameEn": "Jalen Johnson",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯雄·吉尔伯特",
+        "nameEn": "Keshon Gilbert",
+        "number": "51",
+        "position": "G"
+      },
+      {
+        "nameZh": "奥涅卡·奥孔古",
+        "nameEn": "Onyeka Okongwu",
+        "number": "17",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "戴森·丹尼尔斯",
+        "nameEn": "Dyson Daniels",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "祖比·埃乔弗",
+        "nameEn": "Zuby Ejiofor",
+        "number": "20",
+        "position": "F"
+      },
+      {
+        "nameZh": "金斯顿·弗莱明斯",
+        "nameEn": "Kingston Flemings",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔克·兰代尔",
+        "nameEn": "Jock Landale",
+        "number": "31",
+        "position": "C"
+      },
+      {
+        "nameZh": "阿龙·威金斯",
+        "nameEn": "Aaron Wiggins",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "科里·基斯珀特",
+        "nameEn": "Corey Kispert",
+        "number": "24",
+        "position": "F"
+      },
+      {
+        "nameZh": "亨利·维萨尔",
+        "nameEn": "Henri Veesaar",
+        "number": "13",
+        "position": "C"
+      },
+      {
+        "nameZh": "尼基尔·亚历山大·沃克",
+        "nameEn": "Nickeil Alexander-Walker",
+        "number": "7",
+        "position": "G"
+      },
+      {
+        "nameZh": "穆罕穆德·盖伊",
+        "nameEn": "Mouhamed Gueye",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "雷伊·丹尼斯",
+        "nameEn": "RayJ Dennis",
+        "number": "00",
+        "position": "G"
+      },
+      {
+        "nameZh": "吕冈茨·多尔特",
+        "nameEn": "Luguentz Dort",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "科比·约翰逊",
+        "nameEn": "Isaac McKneely",
+        "number": "",
+        "position": "G"
+      },
+      {
+        "nameZh": "科比·约翰逊",
+        "nameEn": "Kobe Johnson",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡梅伦·科恩",
+        "nameEn": "Cameron Corhen",
+        "number": "32",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰伦·威尔逊",
+        "nameEn": "Jalen Wilson",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "阿萨·纽厄尔",
+        "nameEn": "Asa Newell",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "多里安·芬尼·史密斯",
+        "nameEn": "Dorian Finney-Smith",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "CJ·麦科勒姆",
+        "nameEn": "CJ McCollum",
+        "number": "3",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "WAS",
+    "source": "https://nba.hupu.com/players/wizards",
+    "rows": [
+      {
+        "nameZh": "凯肖恩·乔治",
+        "nameEn": "Kyshawn George",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷弗·基尔斯",
+        "nameEn": "Trevor Keels",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡尔顿·卡林顿",
+        "nameEn": "Bub Carrington",
+        "number": "7",
+        "position": "G"
+      },
+      {
+        "nameZh": "史蒂夫·塞特尔三世",
+        "nameEn": "Steve Settle",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "亚历克斯·萨尔",
+        "nameEn": "Alex Sarr",
+        "number": "20",
+        "position": "C"
+      },
+      {
+        "nameZh": "安东尼·戴维斯",
+        "nameEn": "Anthony Davis",
+        "number": "23",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "特雷·曼",
+        "nameEn": "Tre Mann",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾斯汀·尚帕尼",
+        "nameEn": "Justin Champagnie",
+        "number": "9",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "AJ·迪班萨",
+        "nameEn": "AJ Dybantsa",
+        "number": "4",
+        "position": "F"
+      },
+      {
+        "nameZh": "里斯·比克曼",
+        "nameEn": "Reece Beekman",
+        "number": "26",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯·米德尔顿",
+        "nameEn": "Khris Middleton",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "费利克斯·奥克帕拉",
+        "nameEn": "Felix Okpara",
+        "number": "34",
+        "position": "C"
+      },
+      {
+        "nameZh": "德安德烈·艾顿",
+        "nameEn": "Deandre Ayton",
+        "number": "8",
+        "position": "C"
+      },
+      {
+        "nameZh": "斯卡尔·拉比西埃",
+        "nameEn": "Skal Labissière",
+        "number": "7",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "比拉尔·库利巴利",
+        "nameEn": "Bilal Coulibaly",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "特雷·杨",
+        "nameEn": "Trae Young",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "克里斯·利文斯顿",
+        "nameEn": "Chris Livingston",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "特里斯坦·武克切维奇",
+        "nameEn": "Tristan Vukcevic",
+        "number": "00",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷·约翰逊",
+        "nameEn": "Tre Johnson",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "威尔·莱利",
+        "nameEn": "Will Riley",
+        "number": "27",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾米尔·沃特金斯",
+        "nameEn": "Jamir Watkins",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "安东尼·吉尔",
+        "nameEn": "Anthony Gill",
+        "number": "16",
+        "position": "F"
+      }
+    ]
+  },
+  {
+    "team": "CHA",
+    "source": "https://nba.hupu.com/players/hornets",
+    "rows": [
+      {
+        "nameZh": "贾克尔·乔伊纳",
+        "nameEn": "Jarkel Joiner",
+        "number": "20",
+        "position": "G"
+      },
+      {
+        "nameZh": "帕特·康诺顿",
+        "nameEn": "Pat Connaughton",
+        "number": "21",
+        "position": "G"
+      },
+      {
+        "nameZh": "穆萨·迪亚巴特",
+        "nameEn": "Moussa Diabaté",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "提贾尼·萨隆",
+        "nameEn": "Tidjane Salaün",
+        "number": "31",
+        "position": "F"
+      },
+      {
+        "nameZh": "罗伊斯·奥尼尔",
+        "nameEn": "Royce O'Neale",
+        "number": "00",
+        "position": "F"
+      },
+      {
+        "nameZh": "克里斯蒂安·安德森二世",
+        "nameEn": "Christian Anderson",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "汉内斯·施泰因巴赫",
+        "nameEn": "Hannes Steinbach",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "P·J·霍尔",
+        "nameEn": "PJ Hall",
+        "number": "16",
+        "position": "C"
+      },
+      {
+        "nameZh": "迈克尔·阿贾伊",
+        "nameEn": "Michael Ajayi",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯兰·博斯韦尔",
+        "nameEn": "Kylan Boswell",
+        "number": "18",
+        "position": "G"
+      },
+      {
+        "nameZh": "布兰登·米勒",
+        "nameEn": "Brandon Miller",
+        "number": "24",
+        "position": "F"
+      },
+      {
+        "nameZh": "纳兹·里德",
+        "nameEn": "Naz Reid",
+        "number": "11",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "科比·怀特",
+        "nameEn": "Coby White",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "格雷森·阿伦",
+        "nameEn": "Grayson Allen",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "格兰特·威廉姆斯",
+        "nameEn": "Grant Williams",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "丹尼斯·施罗德",
+        "nameEn": "Dennis Schröder",
+        "number": "17",
+        "position": "G"
+      },
+      {
+        "nameZh": "怀亚特·弗里克斯",
+        "nameEn": "Wyatt Fricks",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "康·克尼普尔",
+        "nameEn": "Kon Knueppel",
+        "number": "7",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "利亚姆·麦克尼利",
+        "nameEn": "Liam McNeeley",
+        "number": "33",
+        "position": "F"
+      },
+      {
+        "nameZh": "瑞安·卡尔克布伦纳",
+        "nameEn": "Ryan Kalkbrenner",
+        "number": "11",
+        "position": "C"
+      },
+      {
+        "nameZh": "西翁·詹姆斯",
+        "nameEn": "Sion James",
+        "number": "4",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "ORL",
+    "source": "https://nba.hupu.com/players/magic",
+    "rows": [
+      {
+        "nameZh": "保罗·班切罗",
+        "nameEn": "Paolo Banchero",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "马拉凯布兰纳姆",
+        "nameEn": "Malaki Branham",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "特里斯坦·达·席尔瓦",
+        "nameEn": "Tristan da Silva",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "JD·戴维森",
+        "nameEn": "JD Davison",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "弗朗茨·瓦格纳",
+        "nameEn": "Franz Wagner",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰伦·萨格斯",
+        "nameEn": "Jalen Suggs",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "德斯蒙德·贝恩",
+        "nameEn": "Desmond Bane",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "伊扎亚·尼尔森",
+        "nameEn": "Izaiyah Nelson",
+        "number": "25",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾马尔·凯恩",
+        "nameEn": "Jamal Cain",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "安东尼·布莱克",
+        "nameEn": "Anthony Black",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "戈加·比塔泽",
+        "nameEn": "Goga Bitadze",
+        "number": "35",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "乔纳森·艾萨克",
+        "nameEn": "Jonathan Isaac",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯文·诺克斯",
+        "nameEn": "Kevin Knox",
+        "number": "31",
+        "position": "F"
+      },
+      {
+        "nameZh": "温德尔·卡特",
+        "nameEn": "Wendell Carter",
+        "number": "34",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "迈克·沙拉夫贾姆茨",
+        "nameEn": "Mike Sharavjamts",
+        "number": "",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰文·卡特",
+        "nameEn": "Jevon Carter",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰斯·理查德森",
+        "nameEn": "Jase Richardson",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "科林·卡斯尔顿",
+        "nameEn": "Colin Castleton",
+        "number": "14",
+        "position": "C"
+      },
+      {
+        "nameZh": "亚历克斯·莫拉莱斯",
+        "nameEn": "Alex Morales",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "诺阿·庞达",
+        "nameEn": "Noah Penda",
+        "number": "93",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "尼古拉·武切维奇",
+        "nameEn": "Nikola Vučević",
+        "number": "9",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "MIA",
+    "source": "https://nba.hupu.com/players/heat",
+    "rows": [
+      {
+        "nameZh": "迈伦·加德纳",
+        "nameEn": "Myron Gardner",
+        "number": "15",
+        "position": "F"
+      },
+      {
+        "nameZh": "盖布·马德森",
+        "nameEn": "Gabe Madsen",
+        "number": "",
+        "position": "G"
+      },
+      {
+        "nameZh": "尼科拉·约维奇",
+        "nameEn": "Nikola Jović",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "贝兹·姆本",
+        "nameEn": "Bez Mbeng",
+        "number": "19",
+        "position": "G"
+      },
+      {
+        "nameZh": "戴维恩·米切尔",
+        "nameEn": "Davion Mitchell",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "尼科拉·久里西奇",
+        "nameEn": "Pelle Larsson",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "西莫内·丰泰基奥",
+        "nameEn": "Simone Fontecchio",
+        "number": "0",
+        "position": "F"
+      },
+      {
+        "nameZh": "尼克·理查兹",
+        "nameEn": "Nick Richards",
+        "number": "8",
+        "position": "C"
+      },
+      {
+        "nameZh": "凯沙德·约翰逊",
+        "nameEn": "Keshad Johnson",
+        "number": "16",
+        "position": "F"
+      },
+      {
+        "nameZh": "安德鲁·威金斯",
+        "nameEn": "Andrew Wiggins",
+        "number": "22",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷·唐纳森",
+        "nameEn": "Tre Donaldson",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "瑞安·康威尔",
+        "nameEn": "Ryan Conwell",
+        "number": "4",
+        "position": "G"
+      },
+      {
+        "nameZh": "德鲁·史密斯",
+        "nameEn": "Dru Smith",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "伊安·席费林",
+        "nameEn": "Ian Schieffelin",
+        "number": "20",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯勒·凯利",
+        "nameEn": "Kylor Kelley",
+        "number": "",
+        "position": "C"
+      },
+      {
+        "nameZh": "埃兹拉·奥萨尔",
+        "nameEn": "Ezra Ausar",
+        "number": "",
+        "position": "F"
+      },
+      {
+        "nameZh": "扬尼斯·阿德托昆博",
+        "nameEn": "Giannis Antetokounmpo",
+        "number": "7",
+        "position": "F"
+      },
+      {
+        "nameZh": "小蒂姆·哈达威",
+        "nameEn": "Tim Hardaway",
+        "number": "10",
+        "position": "G"
+      },
+      {
+        "nameZh": "克莱·汤普森",
+        "nameEn": "Klay Thompson",
+        "number": "11",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "巴姆·阿德巴约",
+        "nameEn": "Bam Adebayo",
+        "number": "13",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "博比·波蒂斯",
+        "nameEn": "Bobby Portis",
+        "number": "95",
+        "position": "F"
+      },
+      {
+        "nameZh": "弗拉季斯拉夫·戈尔金",
+        "nameEn": "Vladislav Goldin",
+        "number": "50",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "DET",
+    "source": "https://nba.hupu.com/players/pistons",
+    "rows": [
+      {
+        "nameZh": "杰伦·杜伦",
+        "nameEn": "Jalen Duren",
+        "number": "0",
+        "position": "C"
+      },
+      {
+        "nameZh": "凯德·坎宁安",
+        "nameEn": "Cade Cunningham",
+        "number": "2",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯文·赫尔特",
+        "nameEn": "Kevin Huerter",
+        "number": "27",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "布莱斯·威廉姆斯",
+        "nameEn": "Brice Williams",
+        "number": "25",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "罗恩·霍兰二世",
+        "nameEn": "Ronald Holland",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "保罗·里德",
+        "nameEn": "Paul Reed",
+        "number": "7",
+        "position": "F"
+      },
+      {
+        "nameZh": "埃布卡·奥科里",
+        "nameEn": "Ebuka Okorie",
+        "number": "23",
+        "position": "G"
+      },
+      {
+        "nameZh": "以赛亚·乔",
+        "nameEn": "Isaiah Joe",
+        "number": "17",
+        "position": "G"
+      },
+      {
+        "nameZh": "邓肯·罗宾逊",
+        "nameEn": "Duncan Robinson",
+        "number": "55",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾文特·格林",
+        "nameEn": "Javonte Green",
+        "number": "31",
+        "position": "G"
+      },
+      {
+        "nameZh": "丹尼斯·詹金斯",
+        "nameEn": "Daniss Jenkins",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "艾萨克·琼斯",
+        "nameEn": "Isaac Jones",
+        "number": "3",
+        "position": "F"
+      },
+      {
+        "nameZh": "乌戈纳·奥尼恩索",
+        "nameEn": "Ugonna Onyenso",
+        "number": "34",
+        "position": "C"
+      },
+      {
+        "nameZh": "奥萨尔·汤普森",
+        "nameEn": "Ausar Thompson",
+        "number": "9",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "约翰·乌科马杜",
+        "nameEn": "John Ukomadu",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "托卢·史密斯三世",
+        "nameEn": "Tolu Smith",
+        "number": "35",
+        "position": "F"
+      },
+      {
+        "nameZh": "托里恩·普林斯",
+        "nameEn": "Taurean Prince",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "伊莱贾·哈克利斯",
+        "nameEn": "Elijah Harkless",
+        "number": "16",
+        "position": "G"
+      },
+      {
+        "nameZh": "查兹·兰尼尔",
+        "nameEn": "Chaz Lanier",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "约翰·科林斯",
+        "nameEn": "John Collins",
+        "number": "20",
+        "position": "F-C"
+      }
+    ]
+  },
+  {
+    "team": "IND",
+    "source": "https://nba.hupu.com/players/pacers",
+    "rows": [
+      {
+        "nameZh": "小拉里·南斯",
+        "nameEn": "Larry Nance",
+        "number": "22",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "安德鲁·内姆布哈德",
+        "nameEn": "Andrew Nembhard",
+        "number": "2",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "泰雷斯·哈利伯顿",
+        "nameEn": "Tyrese Haliburton",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "奥比·托平",
+        "nameEn": "Obi Toppin",
+        "number": "1",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯利·乌布雷",
+        "nameEn": "Kelly Oubre",
+        "number": "10",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "阿龙·内史密斯",
+        "nameEn": "Aaron Nesmith",
+        "number": "23",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "约翰尼·弗菲",
+        "nameEn": "Johnny Furphy",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰·胡夫",
+        "nameEn": "Jay Huff",
+        "number": "32",
+        "position": "C"
+      },
+      {
+        "nameZh": "昆顿·杰克逊",
+        "nameEn": "Quenton Jackson",
+        "number": "29",
+        "position": "G"
+      },
+      {
+        "nameZh": "布雷登·史密斯",
+        "nameEn": "Braden Smith",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "TJ·麦康奈尔",
+        "nameEn": "T.J. McConnell",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "本·谢泼德",
+        "nameEn": "Ben Sheppard",
+        "number": "26",
+        "position": "G"
+      },
+      {
+        "nameZh": "贾雷斯·沃克",
+        "nameEn": "Jarace Walker",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "科比·布朗",
+        "nameEn": "Kobe Brown",
+        "number": "24",
+        "position": "F"
+      },
+      {
+        "nameZh": "凯巴·凯塔",
+        "nameEn": "Keba Keita",
+        "number": "13",
+        "position": "C"
+      },
+      {
+        "nameZh": "林克·马斯特",
+        "nameEn": "Rienk Mast",
+        "number": "51",
+        "position": "C"
+      },
+      {
+        "nameZh": "杰伦·斯劳森",
+        "nameEn": "Jalen Slawson",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "伊维察·祖巴茨",
+        "nameEn": "Ivica Zubac",
+        "number": "40",
+        "position": "C"
+      },
+      {
+        "nameZh": "帕斯卡尔·西亚卡姆",
+        "nameEn": "Pascal Siakam",
+        "number": "43",
+        "position": "F"
+      },
+      {
+        "nameZh": "詹姆斯·约翰逊",
+        "nameEn": "James Johnson",
+        "number": "16",
+        "position": "F"
+      }
+    ]
+  },
+  {
+    "team": "CLE",
+    "source": "https://nba.hupu.com/players/cavaliers",
+    "rows": [
+      {
+        "nameZh": "柯蒂斯·琼斯",
+        "nameEn": "Curtis Jones",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "埃文·莫布利",
+        "nameEn": "Evan Mobley",
+        "number": "4",
+        "position": "C"
+      },
+      {
+        "nameZh": "扎克·奥斯汀",
+        "nameEn": "Zack Austin",
+        "number": "55",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰隆·泰森",
+        "nameEn": "Jaylon Tyson",
+        "number": "20",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "佩顿·沃特森",
+        "nameEn": "Peyton Watson",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "马里奥·海佐尼亚",
+        "nameEn": "Mario Hezonja",
+        "number": "33",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "卡达里·里士满",
+        "nameEn": "Kadary Richmond",
+        "number": "16",
+        "position": "G"
+      },
+      {
+        "nameZh": "哈利法·迪奥普",
+        "nameEn": "Khalifa Diop",
+        "number": "18",
+        "position": "C"
+      },
+      {
+        "nameZh": "萨姆·梅里尔",
+        "nameEn": "Sam Merrill",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "米利克·托马斯",
+        "nameEn": "Meleek Thomas",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "莱利·米尼克斯",
+        "nameEn": "Riley Minix",
+        "number": "12",
+        "position": "F"
+      },
+      {
+        "nameZh": "小厄内斯特·乌德",
+        "nameEn": "Ernest Udeh",
+        "number": "88",
+        "position": "C"
+      },
+      {
+        "nameZh": "特里斯坦·埃纳鲁纳",
+        "nameEn": "Tristan Enaruna",
+        "number": "21",
+        "position": "F"
+      },
+      {
+        "nameZh": "内匡·汤姆林",
+        "nameEn": "Nae'Qwan Tomlin",
+        "number": "35",
+        "position": "F"
+      },
+      {
+        "nameZh": "拉沙恩·阿吉",
+        "nameEn": "Rashaun Agee",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "贾勒特·阿伦",
+        "nameEn": "Jarrett Allen",
+        "number": "31",
+        "position": "C"
+      },
+      {
+        "nameZh": "小克雷格·波特",
+        "nameEn": "Craig Porter",
+        "number": "9",
+        "position": "G"
+      },
+      {
+        "nameZh": "托马斯·布莱恩特",
+        "nameEn": "Thomas Bryant",
+        "number": "3",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "泰瑞斯·普洛克特",
+        "nameEn": "Tyrese Proctor",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "詹姆斯·哈登",
+        "nameEn": "James Harden",
+        "number": "1",
+        "position": "G"
+      },
+      {
+        "nameZh": "多诺万·米切尔",
+        "nameEn": "Donovan Mitchell",
+        "number": "45",
+        "position": "G"
+      }
+    ]
+  },
+  {
+    "team": "CHI",
+    "source": "https://nba.hupu.com/players/bulls",
+    "rows": [
+      {
+        "nameZh": "小布兰登·波士顿",
+        "nameEn": "Brandon Boston",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "艾萨克·奥科罗",
+        "nameEn": "Isaac Okoro",
+        "number": "35",
+        "position": "F-G"
+      },
+      {
+        "nameZh": "帕特里克·威廉姆斯",
+        "nameEn": "Patrick Williams",
+        "number": "44",
+        "position": "F"
+      },
+      {
+        "nameZh": "诺曼·鲍威尔",
+        "nameEn": "Norman Powell",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·史密斯",
+        "nameEn": "Jalen Smith",
+        "number": "25",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "马塔斯·布泽利斯",
+        "nameEn": "Matas Buzelis",
+        "number": "14",
+        "position": "F"
+      },
+      {
+        "nameZh": "特雷·琼斯",
+        "nameEn": "Tre Jones",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯勒布·威尔逊",
+        "nameEn": "Caleb Wilson",
+        "number": "8",
+        "position": "F"
+      },
+      {
+        "nameZh": "戴林·斯温",
+        "nameEn": "Dailyn Swain",
+        "number": "5",
+        "position": "F"
+      },
+      {
+        "nameZh": "约什·吉迪",
+        "nameEn": "Josh Giddey",
+        "number": "3",
+        "position": "G"
+      },
+      {
+        "nameZh": "杰伦·布里奇斯",
+        "nameEn": "Jalen Bridges",
+        "number": "15",
+        "position": "F"
+      },
+      {
+        "nameZh": "托比·阿瓦卡",
+        "nameEn": "Tobe Awaka",
+        "number": "19",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰林·塞勒斯",
+        "nameEn": "Jaylin Sellers",
+        "number": "22",
+        "position": "G"
+      },
+      {
+        "nameZh": "乔丹·霍金斯",
+        "nameEn": "Jordan Hawkins",
+        "number": "15",
+        "position": "G"
+      },
+      {
+        "nameZh": "巴迪·希尔德",
+        "nameEn": "Buddy Hield",
+        "number": "8",
+        "position": "G"
+      },
+      {
+        "nameZh": "扎克·科林斯",
+        "nameEn": "Zach Collins",
+        "number": "12",
+        "position": "F-C"
+      },
+      {
+        "nameZh": "伦纳德·米勒",
+        "nameEn": "Leonard Miller",
+        "number": "11",
+        "position": "F"
+      },
+      {
+        "nameZh": "诺阿·埃森格",
+        "nameEn": "Noa Essengue",
+        "number": "2",
+        "position": "F"
+      },
+      {
+        "nameZh": "尼古拉斯·克拉克斯顿",
+        "nameEn": "Nic Claxton",
+        "number": "9",
+        "position": "C"
+      },
+      {
+        "nameZh": "德鲁·彼得森",
+        "nameEn": "Drew Peterson",
+        "number": "9",
+        "position": "F"
+      },
+      {
+        "nameZh": "奥兰多·罗宾逊",
+        "nameEn": "Orlando Robinson",
+        "number": "7",
+        "position": "C"
+      }
+    ]
+  },
+  {
+    "team": "MIL",
+    "source": "https://nba.hupu.com/players/bucks",
+    "rows": [
+      {
+        "nameZh": "迈尔斯·特纳",
+        "nameEn": "Myles Turner",
+        "number": "3",
+        "position": "C-F"
+      },
+      {
+        "nameZh": "杰克·斯蒂芬斯",
+        "nameEn": "Jake Stephens",
+        "number": "88",
+        "position": "C"
+      },
+      {
+        "nameZh": "凯莱尔·韦尔",
+        "nameEn": "Kel'el Ware",
+        "number": "9",
+        "position": "C"
+      },
+      {
+        "nameZh": "莱恩·罗林斯",
+        "nameEn": "Ryan Rollins",
+        "number": "13",
+        "position": "G"
+      },
+      {
+        "nameZh": "乌斯曼·迪昂",
+        "nameEn": "Ousmane Dieng",
+        "number": "21",
+        "position": "F"
+      },
+      {
+        "nameZh": "杰里科·西姆斯",
+        "nameEn": "Jericho Sims",
+        "number": "00",
+        "position": "C"
+      },
+      {
+        "nameZh": "布雷登·伯里斯",
+        "nameEn": "Brayden Burries",
+        "number": "0",
+        "position": "G"
+      },
+      {
+        "nameZh": "内特·阿门特",
+        "nameEn": "Nate Ament",
+        "number": "15",
+        "position": "F"
+      },
+      {
+        "nameZh": "小海梅·哈克斯",
+        "nameEn": "Jaime Jaquez",
+        "number": "24",
+        "position": "G"
+      },
+      {
+        "nameZh": "泰勒·希罗",
+        "nameEn": "Tyler Herro",
+        "number": "11",
+        "position": "G"
+      },
+      {
+        "nameZh": "小凯文·波特",
+        "nameEn": "Kevin Porter",
+        "number": "7",
+        "position": "G-F"
+      },
+      {
+        "nameZh": "科马克·瑞安",
+        "nameEn": "Cormac Ryan",
+        "number": "30",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡里斯·勒韦尔",
+        "nameEn": "Caris LeVert",
+        "number": "12",
+        "position": "G"
+      },
+      {
+        "nameZh": "小加里·特伦特",
+        "nameEn": "Gary Trent",
+        "number": "5",
+        "position": "G"
+      },
+      {
+        "nameZh": "卡斯帕拉斯·亚库契奥尼斯",
+        "nameEn": "Kasparas Jakučionis",
+        "number": "25",
+        "position": "G"
+      },
+      {
+        "nameZh": "凯尔·库兹马",
+        "nameEn": "Kyle Kuzma",
+        "number": "18",
+        "position": "F"
+      },
+      {
+        "nameZh": "皮特·南斯",
+        "nameEn": "Pete Nance",
+        "number": "35",
+        "position": "F"
+      },
+      {
+        "nameZh": "卡姆·琼斯",
+        "nameEn": "Kam Jones",
+        "number": "19",
+        "position": "G"
+      },
+      {
+        "nameZh": "博戈柳布·马尔科维奇",
+        "nameEn": "Bogoljub Marković",
+        "number": "23",
+        "position": "F"
+      },
+      {
+        "nameZh": "约翰尼·布鲁姆",
+        "nameEn": "Johni Broome",
+        "number": "",
+        "position": "F"
+      },
+      {
+        "nameZh": "AJ·格林",
+        "nameEn": "AJ Green",
+        "number": "20",
+        "position": "G"
+      }
+    ]
+  }
+]

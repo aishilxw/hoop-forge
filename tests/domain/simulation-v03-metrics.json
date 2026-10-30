@@ -1,0 +1,29 @@
+{
+  "method": "120 fixed seeds; BOS vs LAL, original player all attributes 80. Coefficients are game design, not fitted NBA predictive estimates.",
+  "perTeamPerGame": {
+    "points": 116.73,
+    "rebounds": 53.23,
+    "assists": 12.75,
+    "turnovers": 12.7,
+    "fta": 14.6,
+    "ftm": 9.55,
+    "fga": 93.99,
+    "fgm": 43.11,
+    "threePA": 56.42,
+    "threePM": 20.97,
+    "fouls": 9.8
+  },
+  "fgPercent": 45.87,
+  "threePercent": 37.17,
+  "ftPercent": 65.36,
+  "homeOwnWinRate": 0.8666666666666667,
+  "awayOwnWinRate": 0.6833333333333333,
+  "originalMeanPoints": 20.375,
+  "tiredOriginalMeanPoints": 17.708333333333332,
+  "perimeterTeamThreePA": 68.85833333333333,
+  "paintTeamThreePA": 26.625,
+  "minuteViolations": 0,
+  "negativeMinuteBoxes": 0,
+  "status": "historical-before-final-tuning",
+  "currentMetrics": "docs/qa/simulation-v03-metrics.json"
+}

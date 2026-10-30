@@ -1,0 +1,3362 @@
+{
+  "dataVersion": "nba-2026-27-realgm-2026-10-29-2k26-v2",
+  "source": {
+    "repository": "wkoverfield/blacktop-blitz",
+    "commit": "90a25a24c54198799c2816730ee181731e3b4a55",
+    "rawUrl": "https://raw.githubusercontent.com/wkoverfield/blacktop-blitz/90a25a24c54198799c2816730ee181731e3b4a55/public/players-2k26.json",
+    "sourcePage": "https://github.com/wkoverfield/blacktop-blitz/blob/90a25a24c54198799c2816730ee181731e3b4a55/public/players-2k26.json",
+    "capturedAt": "2026-08-08T06:51:10Z",
+    "upstreamGameVersion": "2K26",
+    "rawSha256": "c38e88cb8caadb61a4eca82438f173d221d88836d45bb37776092000f5f74240",
+    "rawRows": 1889,
+    "currentRows": 672,
+    "rowsWithoutAttributes": [
+      "AJ Dybantsa",
+      "Darryn Peterson",
+      "Caleb Wilson",
+      "Mikel Brown Jr."
+    ],
+    "caveat": "Unofficial 2kratings.com-derived third-party data; current-team roster is the archived game roster, not a verified real-world NBA contract list."
+  },
+  "roster": {
+    "catalogPlayers": 521,
+    "matchedPlayers": 446,
+    "unmatchedPlayers": 75
+  },
+  "mapping": {
+    "insideScoring": "cats.ins (2K Inside Scoring category average)",
+    "outsideScoring": "cats.out (2K Outside Scoring category average)",
+    "interiorDefense": "attributes.interiorDefense (direct 2K attribute)",
+    "perimeterDefense": "attributes.perimeterDefense (direct 2K attribute)",
+    "playmaking": "cats.ply (2K Playmaking category average)",
+    "ballHandling": "attributes.ballHandle (direct 2K attribute)",
+    "speed": "attributes.speed (direct 2K Speed; not Speed with Ball)",
+    "physicality": "attributes.strength (direct 2K Strength)",
+    "rebounding": "round((attributes.offensiveRebound + attributes.defensiveRebound) / 2)"
+  },
+  "mappedRanges": {
+    "insideScoring": {
+      "min": 41,
+      "max": 92,
+      "below40": 0
+    },
+    "outsideScoring": {
+      "min": 38,
+      "max": 93,
+      "below40": 2
+    },
+    "interiorDefense": {
+      "min": 25,
+      "max": 96,
+      "below40": 49
+    },
+    "perimeterDefense": {
+      "min": 25,
+      "max": 97,
+      "below40": 17
+    },
+    "playmaking": {
+      "min": 34,
+      "max": 93,
+      "below40": 17
+    },
+    "ballHandling": {
+      "min": 30,
+      "max": 99,
+      "below40": 26
+    },
+    "speed": {
+      "min": 25,
+      "max": 98,
+      "below40": 5
+    },
+    "physicality": {
+      "min": 30,
+      "max": 96,
+      "below40": 16
+    },
+    "rebounding": {
+      "min": 33,
+      "max": 93,
+      "below40": 20
+    }
+  },
+  "matched": [
+    {
+      "playerId": "1642269",
+      "rosterName": "Devin Carter",
+      "sourceName": "Devin Carter",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "201144",
+      "rosterName": "Mike Conley",
+      "sourceName": "Mike Conley",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630568",
+      "rosterName": "Luka Garza",
+      "sourceName": "Luka Garza",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "202331",
+      "rosterName": "Paul George",
+      "sourceName": "Paul George",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642864",
+      "rosterName": "Hugo Gonzalez",
+      "sourceName": "Hugo Gonzalez",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631199",
+      "rosterName": "Ron Harper, Jr.",
+      "sourceName": "Ron Harper Jr.",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630573",
+      "rosterName": "Sam Hauser",
+      "sourceName": "Sam Hauser",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630202",
+      "rosterName": "Payton Pritchard",
+      "sourceName": "Payton Pritchard",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629674",
+      "rosterName": "Neemias Queta",
+      "sourceName": "Neemias Queta",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629011",
+      "rosterName": "Mitchell Robinson",
+      "sourceName": "Mitchell Robinson",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631248",
+      "rosterName": "Baylor Scheierman",
+      "sourceName": "Baylor Scheierman",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628369",
+      "rosterName": "Jayson Tatum",
+      "sourceName": "Jayson Tatum",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641775",
+      "rosterName": "Jordan Walsh",
+      "sourceName": "Jordan Walsh",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628401",
+      "rosterName": "Derrick White",
+      "sourceName": "Derrick White",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642873",
+      "rosterName": "Amari Williams",
+      "sourceName": "Amari Williams",
+      "sourceTeam": "Boston Celtics",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641730",
+      "rosterName": "Noah Clowney",
+      "sourceName": "Noah Clowney",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642856",
+      "rosterName": "Egor Demin",
+      "sourceName": "Egor Demin",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631165",
+      "rosterName": "Keon Ellis",
+      "sourceName": "Keon Ellis",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1643052",
+      "rosterName": "Chaney Johnson",
+      "sourceName": "Chaney Johnson",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629611",
+      "rosterName": "Terance Mann",
+      "sourceName": "Terance Mann",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631169",
+      "rosterName": "Josh Minott",
+      "sourceName": "Josh Minott",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629008",
+      "rosterName": "Michael Porter, Jr.",
+      "sourceName": "Michael Porter Jr.",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642962",
+      "rosterName": "Drake Powell",
+      "sourceName": "Drake Powell",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203944",
+      "rosterName": "Julius Randle",
+      "sourceName": "Julius Randle",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642879",
+      "rosterName": "Ben Saraf",
+      "sourceName": "Ben Saraf",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630549",
+      "rosterName": "Day'Ron Sharpe",
+      "sourceName": "Day’Ron Sharpe",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642849",
+      "rosterName": "Nolan Traore",
+      "sourceName": "Nolan Traore",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629021",
+      "rosterName": "Moe Wagner",
+      "sourceName": "Moritz Wagner",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642874",
+      "rosterName": "Danny Wolf",
+      "sourceName": "Danny Wolf",
+      "sourceTeam": "Brooklyn Nets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630631",
+      "rosterName": "Jose Alvarado",
+      "sourceName": "Jose Alvarado",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628384",
+      "rosterName": "OG Anunoby",
+      "sourceName": "OG Anunoby",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628969",
+      "rosterName": "Mikal Bridges",
+      "sourceName": "Mikal Bridges",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628973",
+      "rosterName": "Jalen Brunson",
+      "sourceName": "Jalen Brunson",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "203903",
+      "rosterName": "Jordan Clarkson",
+      "sourceName": "Jordan Clarkson",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642359",
+      "rosterName": "Pacome Dadiet",
+      "sourceName": "Pacome Dadiet",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642885",
+      "rosterName": "Mohamed Diawara",
+      "sourceName": "Mohamed Diawara",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "203083",
+      "rosterName": "Andre Drummond",
+      "sourceName": "Andre Drummond",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628404",
+      "rosterName": "Josh Hart",
+      "sourceName": "Josh Hart",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-27105e4d9074",
+      "rosterName": "Dalton Knecht",
+      "sourceName": "Dalton Knecht",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642278",
+      "rosterName": "Tyler Kolek",
+      "sourceName": "Tyler Kolek",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630540",
+      "rosterName": "Miles McBride",
+      "sourceName": "Miles McBride",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629013",
+      "rosterName": "Landry Shamet",
+      "sourceName": "Landry Shamet",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626157",
+      "rosterName": "Karl-Anthony Towns",
+      "sourceName": "Karl-Anthony Towns",
+      "sourceTeam": "New York Knicks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630164",
+      "rosterName": "James Wiseman",
+      "sourceName": "James Wiseman",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631230",
+      "rosterName": "Dominick Barlow",
+      "sourceName": "Dominick Barlow",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641737",
+      "rosterName": "Adem Bona",
+      "sourceName": "Adem Bona",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627759",
+      "rosterName": "Jaylen Brown",
+      "sourceName": "Jaylen Brown",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "203484",
+      "rosterName": "Kentavious Caldwell-Pope",
+      "sourceName": "Kentavious Caldwell-Pope",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642845",
+      "rosterName": "V.J. Edgecombe",
+      "sourceName": "VJ Edgecombe",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642348",
+      "rosterName": "Justin Edwards",
+      "sourceName": "Justin Edwards",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "203954",
+      "rosterName": "Joel Embiid",
+      "sourceName": "Joel Embiid",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630574",
+      "rosterName": "Ariel Hukporti",
+      "sourceName": "Ariel Hukporti",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "2544",
+      "rosterName": "LeBron James",
+      "sourceName": "LeBron James",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631126",
+      "rosterName": "Caleb Love",
+      "sourceName": "Caleb Love",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630178",
+      "rosterName": "Tyrese Maxey",
+      "sourceName": "Tyrese Maxey",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641712",
+      "rosterName": "Rayan Rupert",
+      "sourceName": "Rayan Rupert",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629014",
+      "rosterName": "Anfernee Simons",
+      "sourceName": "Anfernee Simons",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629731",
+      "rosterName": "Dean Wade",
+      "sourceName": "Dean Wade",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631133",
+      "rosterName": "Jabari Walker",
+      "sourceName": "Jabari Walker",
+      "sourceTeam": "Philadelphia 76ers",
+      "match": "exact"
+    },
+    {
+      "playerId": "203937",
+      "rosterName": "Kyle Anderson",
+      "sourceName": "Kyle Anderson",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630567",
+      "rosterName": "Scottie Barnes",
+      "sourceName": "Scottie Barnes",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629628",
+      "rosterName": "R.J. Barrett",
+      "sourceName": "RJ Barrett",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642419",
+      "rosterName": "Jamison Battle",
+      "sourceName": "Jamison Battle",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631218",
+      "rosterName": "Trayce Jackson-Davis",
+      "sourceName": "Trayce Jackson-Davis",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "202695",
+      "rosterName": "Kawhi Leonard",
+      "sourceName": "Kawhi Leonard",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642918",
+      "rosterName": "Alijah Martin",
+      "sourceName": "Alijah Martin",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642867",
+      "rosterName": "Collin Murray-Boyles",
+      "sourceName": "Collin Murray-Boyles",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627751",
+      "rosterName": "Jakob Poeltl",
+      "sourceName": "Jakob Poeltl",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630193",
+      "rosterName": "Immanuel Quickley",
+      "sourceName": "Immanuel Quickley",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642347",
+      "rosterName": "Jamal Shead",
+      "sourceName": "Jamal Shead",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641869",
+      "rosterName": "Malachi Smith",
+      "sourceName": "Malachi Smith",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642266",
+      "rosterName": "Ja'Kobe Walter",
+      "sourceName": "Ja’Kobe Walter",
+      "sourceTeam": "Toronto Raptors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641824",
+      "rosterName": "Matas Buzelis",
+      "sourceName": "Matas Buzelis",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629651",
+      "rosterName": "Nicolas Claxton",
+      "sourceName": "Nic Claxton",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628380",
+      "rosterName": "Zach Collins",
+      "sourceName": "Zach Collins",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642855",
+      "rosterName": "Noa Essengue",
+      "sourceName": "Noa Essengue",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630581",
+      "rosterName": "Josh Giddey",
+      "sourceName": "Josh Giddey",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641722",
+      "rosterName": "Jordan Hawkins",
+      "sourceName": "Jordan Hawkins",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627741",
+      "rosterName": "Buddy Hield",
+      "sourceName": "Buddy Hield",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630200",
+      "rosterName": "Tre Jones",
+      "sourceName": "Tre Jones",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631159",
+      "rosterName": "Leonard Miller",
+      "sourceName": "Leonard Miller",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630171",
+      "rosterName": "Isaac Okoro",
+      "sourceName": "Isaac Okoro",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626181",
+      "rosterName": "Norman Powell",
+      "sourceName": "Norman Powell",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630188",
+      "rosterName": "Jalen Smith",
+      "sourceName": "Jalen Smith",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630172",
+      "rosterName": "Patrick Williams",
+      "sourceName": "Patrick Williams",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628386",
+      "rosterName": "Jarrett Allen",
+      "sourceName": "Jarrett Allen",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628418",
+      "rosterName": "Thomas Bryant",
+      "sourceName": "Thomas Bryant",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642400",
+      "rosterName": "Tristan Enaruna",
+      "sourceName": "Tristan Enaruna",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "201935",
+      "rosterName": "James Harden",
+      "sourceName": "James Harden",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626209",
+      "rosterName": "Mario Hezonja",
+      "sourceName": "Mario Hezonja",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630241",
+      "rosterName": "Sam Merrill",
+      "sourceName": "Sam Merrill",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642434",
+      "rosterName": "Riley Minix",
+      "sourceName": "Riley Minix",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628378",
+      "rosterName": "Donovan Mitchell",
+      "sourceName": "Donovan Mitchell",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630596",
+      "rosterName": "Evan Mobley",
+      "sourceName": "Evan Mobley",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641854",
+      "rosterName": "Craig Porter, Jr.",
+      "sourceName": "Craig Porter Jr.",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642878",
+      "rosterName": "Tyrese Proctor",
+      "sourceName": "Tyrese Proctor",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641772",
+      "rosterName": "Nae'qwan Tomlin",
+      "sourceName": "Nae’Qwan Tomlin",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642281",
+      "rosterName": "Jaylon Tyson",
+      "sourceName": "Jaylon Tyson",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631212",
+      "rosterName": "Peyton Watson",
+      "sourceName": "Peyton Watson",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628381",
+      "rosterName": "John Collins",
+      "sourceName": "John Collins",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630595",
+      "rosterName": "Cade Cunningham",
+      "sourceName": "Cade Cunningham",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631105",
+      "rosterName": "Jalen Duren",
+      "sourceName": "Jalen Duren",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629750",
+      "rosterName": "Javonte Green",
+      "sourceName": "Javonte Green",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641989",
+      "rosterName": "E.J. Harkless",
+      "sourceName": "Elijah Harkless",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641842",
+      "rosterName": "Ron Holland",
+      "sourceName": "Ronald Holland II",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628989",
+      "rosterName": "Kevin Huerter",
+      "sourceName": "Kevin Huerter",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642450",
+      "rosterName": "Daniss Jenkins",
+      "sourceName": "Daniss Jenkins",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630198",
+      "rosterName": "Isaiah Joe",
+      "sourceName": "Isaiah Joe",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642403",
+      "rosterName": "Isaac Jones",
+      "sourceName": "Isaac Jones",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642404",
+      "rosterName": "Chaz Lanier",
+      "sourceName": "Chaz Lanier",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627752",
+      "rosterName": "Taurean Prince",
+      "sourceName": "Taurean Prince",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630194",
+      "rosterName": "Paul Reed, Jr.",
+      "sourceName": "Paul Reed",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629130",
+      "rosterName": "Duncan Robinson",
+      "sourceName": "Duncan Robinson",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642449",
+      "rosterName": "Tolu Smith",
+      "sourceName": "Tolu Smith",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641709",
+      "rosterName": "Ausar Thompson",
+      "sourceName": "Ausar Thompson",
+      "sourceTeam": "Detroit Pistons",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641738",
+      "rosterName": "Kobe Brown",
+      "sourceName": "Kobe Brown",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642277",
+      "rosterName": "Johnny Furphy",
+      "sourceName": "Johnny Furphy",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630169",
+      "rosterName": "Tyrese Haliburton",
+      "sourceName": "Tyrese Haliburton",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630643",
+      "rosterName": "James Huff",
+      "sourceName": "Jay Huff",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631245",
+      "rosterName": "Quenton Jackson",
+      "sourceName": "Quenton Jackson",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "204456",
+      "rosterName": "T.J. McConnell",
+      "sourceName": "T.J. McConnell",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626204",
+      "rosterName": "Larry Nance, Jr.",
+      "sourceName": "Larry Nance Jr.",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629614",
+      "rosterName": "Andrew Nembhard",
+      "sourceName": "Andrew Nembhard",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630174",
+      "rosterName": "Aaron Nesmith",
+      "sourceName": "Aaron Nesmith",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626162",
+      "rosterName": "Kelly Oubre, Jr.",
+      "sourceName": "Kelly Oubre Jr.",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641767",
+      "rosterName": "Ben Sheppard",
+      "sourceName": "Ben Sheppard",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627783",
+      "rosterName": "Pascal Siakam",
+      "sourceName": "Pascal Siakam",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641771",
+      "rosterName": "Jalen Slawson",
+      "sourceName": "Jalen Slawson",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630167",
+      "rosterName": "Obi Toppin",
+      "sourceName": "Obi Toppin",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641716",
+      "rosterName": "Jarace Walker",
+      "sourceName": "Jarace Walker",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627826",
+      "rosterName": "Ivica Zubac",
+      "sourceName": "Ivica Zubac",
+      "sourceTeam": "Indiana Pacers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631172",
+      "rosterName": "Ousmane Dieng",
+      "sourceName": "Ousmane Dieng",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631260",
+      "rosterName": "A.J. Green",
+      "sourceName": "AJ Green",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629639",
+      "rosterName": "Tyler Herro",
+      "sourceName": "Tyler Herro",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642857",
+      "rosterName": "Kasparas Jakucionis",
+      "sourceName": "Kasparas Jakucionis",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631170",
+      "rosterName": "Jaime Jaquez, Jr.",
+      "sourceName": "Jaime Jaquez Jr.",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642880",
+      "rosterName": "Kam Jones",
+      "sourceName": "Kam Jones",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628398",
+      "rosterName": "Kyle Kuzma",
+      "sourceName": "Kyle Kuzma",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627747",
+      "rosterName": "Caris LeVert",
+      "sourceName": "Caris LeVert",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-0567971e3d25",
+      "rosterName": "Pete Nance",
+      "sourceName": "Pete Nance",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631157",
+      "rosterName": "Ryan Rollins",
+      "sourceName": "Ryan Rollins",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642504",
+      "rosterName": "Cormac Ryan",
+      "sourceName": "Cormac Ryan",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630579",
+      "rosterName": "Jericho Sims",
+      "sourceName": "Jericho Sims",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629018",
+      "rosterName": "Gary Trent, Jr.",
+      "sourceName": "Gary Trent Jr.",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626167",
+      "rosterName": "Myles Turner",
+      "sourceName": "Myles Turner",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642276",
+      "rosterName": "Kel'el Ware",
+      "sourceName": "Kel’el Ware",
+      "sourceTeam": "Milwaukee Bucks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629638",
+      "rosterName": "Nickeil Alexander-Walker",
+      "sourceName": "Nickeil Alexander-Walker",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630700",
+      "rosterName": "Dyson Daniels",
+      "sourceName": "Dyson Daniels",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642484",
+      "rosterName": "RayJ Dennis",
+      "sourceName": "RayJ Dennis",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629652",
+      "rosterName": "Luguentz Dort",
+      "sourceName": "Luguentz Dort",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627827",
+      "rosterName": "Dorian Finney-Smith",
+      "sourceName": "Dorian Finney-Smith",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642933",
+      "rosterName": "Keshon Gilbert",
+      "sourceName": "Keshon Gilbert",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631243",
+      "rosterName": "Mouhamed Gueye",
+      "sourceName": "Mouhamed Gueye",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630552",
+      "rosterName": "Jalen Johnson",
+      "sourceName": "Jalen Johnson",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630557",
+      "rosterName": "Corey Kispert",
+      "sourceName": "Corey Kispert",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629111",
+      "rosterName": "Jock Landale",
+      "sourceName": "Jock Landale",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "203468",
+      "rosterName": "C.J. McCollum",
+      "sourceName": "CJ McCollum",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642854",
+      "rosterName": "Asa Newell",
+      "sourceName": "Asa Newell",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630168",
+      "rosterName": "Onyeka Okongwu",
+      "sourceName": "Onyeka Okongwu",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630598",
+      "rosterName": "Aaron Wiggins",
+      "sourceName": "Aaron Wiggins",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630592",
+      "rosterName": "Jalen Wilson",
+      "sourceName": "Jalen Wilson",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628960",
+      "rosterName": "Grayson Allen",
+      "sourceName": "Grayson Allen",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631217",
+      "rosterName": "Moussa Diabate",
+      "sourceName": "Moussa Diabate",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641790",
+      "rosterName": "P.J. Hall",
+      "sourceName": "PJ Hall",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642883",
+      "rosterName": "Sion James",
+      "sourceName": "Sion James",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641750",
+      "rosterName": "Ryan Kalkbrenner",
+      "sourceName": "Ryan Kalkbrenner",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642851",
+      "rosterName": "Kon Knueppel",
+      "sourceName": "Kon Knueppel",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642862",
+      "rosterName": "Liam McNeeley",
+      "sourceName": "Liam McNeeley",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641706",
+      "rosterName": "Brandon Miller",
+      "sourceName": "Brandon Miller",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626220",
+      "rosterName": "Royce O'Neale",
+      "sourceName": "Royce O’Neale",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629675",
+      "rosterName": "Naz Reid",
+      "sourceName": "Naz Reid",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642275",
+      "rosterName": "Tidjane Salaun",
+      "sourceName": "Tidjane Salaun",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203471",
+      "rosterName": "Dennis Schroder",
+      "sourceName": "Dennis Schroder",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629632",
+      "rosterName": "Coby White",
+      "sourceName": "Coby White",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629684",
+      "rosterName": "Grant Williams",
+      "sourceName": "Grant Williams",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628389",
+      "rosterName": "Bam Adebayo",
+      "sourceName": "Bam Adebayo",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "203507",
+      "rosterName": "Giannis Antetokounmpo",
+      "sourceName": "Giannis Antetokounmpo",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631323",
+      "rosterName": "Simone Fontecchio",
+      "sourceName": "Simone Fontecchio",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642066",
+      "rosterName": "Myron Gardner",
+      "sourceName": "Myron Gardner",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642884",
+      "rosterName": "Vladislav Goldin",
+      "sourceName": "Vladislav Goldin",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "203501",
+      "rosterName": "Tim Hardaway Jr.",
+      "sourceName": "Tim Hardaway Jr.",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642352",
+      "rosterName": "Keshad Johnson",
+      "sourceName": "Keshad Johnson",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631107",
+      "rosterName": "Nikola Jovic",
+      "sourceName": "Nikola Jovic",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641796",
+      "rosterName": "Pelle Larsson",
+      "sourceName": "Pelle Larsson",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630558",
+      "rosterName": "Davion Mitchell",
+      "sourceName": "Davion Mitchell",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626171",
+      "rosterName": "Bobby Portis",
+      "sourceName": "Bobby Portis",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630208",
+      "rosterName": "Nick Richards",
+      "sourceName": "Nick Richards",
+      "sourceTeam": "Chicago Bulls",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630696",
+      "rosterName": "Dru Smith",
+      "sourceName": "Dru Smith",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "202691",
+      "rosterName": "Klay Thompson",
+      "sourceName": "Klay Thompson",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "203952",
+      "rosterName": "Andrew Wiggins",
+      "sourceName": "Andrew Wiggins",
+      "sourceTeam": "Miami Heat",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631094",
+      "rosterName": "Paolo Banchero",
+      "sourceName": "Paolo Banchero",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630217",
+      "rosterName": "Desmond Bane",
+      "sourceName": "Desmond Bane",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629048",
+      "rosterName": "Goga Bitadze",
+      "sourceName": "Goga Bitadze",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641710",
+      "rosterName": "Anthony Black",
+      "sourceName": "Anthony Black",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631288",
+      "rosterName": "Jamal Cain",
+      "sourceName": "Jamal Cain",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628975",
+      "rosterName": "Jevon Carter",
+      "sourceName": "Jevon Carter",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628976",
+      "rosterName": "Wendell Carter, Jr.",
+      "sourceName": "Wendell Carter Jr.",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630658",
+      "rosterName": "Colin Castleton",
+      "sourceName": "Colin Castleton",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641783",
+      "rosterName": "Tristan Da Silva",
+      "sourceName": "Tristan da Silva",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628371",
+      "rosterName": "Jonathan Isaac",
+      "sourceName": "Jonathan Isaac",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631457",
+      "rosterName": "Alex Morales",
+      "sourceName": "Alex Morales",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642869",
+      "rosterName": "Noah Penda",
+      "sourceName": "Noah Penda",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642859",
+      "rosterName": "Jase Richardson",
+      "sourceName": "Jase Richardson",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630591",
+      "rosterName": "Jalen Suggs",
+      "sourceName": "Jalen Suggs",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "202696",
+      "rosterName": "Nikola Vucevic",
+      "sourceName": "Nikola Vucevic",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630532",
+      "rosterName": "Franz Wagner",
+      "sourceName": "Franz Wagner",
+      "sourceTeam": "Orlando Magic",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629028",
+      "rosterName": "Deandre Ayton",
+      "sourceName": "Deandre Ayton",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641736",
+      "rosterName": "Reece Beekman",
+      "sourceName": "Reece Beekman",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642267",
+      "rosterName": "Bub Carrington",
+      "sourceName": "Bub Carrington",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630551",
+      "rosterName": "Justin Champagnie",
+      "sourceName": "Justin Champagnie",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641731",
+      "rosterName": "Bilal Coulibaly",
+      "sourceName": "Bilal Coulibaly",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "203076",
+      "rosterName": "Anthony Davis",
+      "sourceName": "Anthony Davis",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642273",
+      "rosterName": "Kyshawn George",
+      "sourceName": "KyShawn George",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630264",
+      "rosterName": "Anthony Gill",
+      "sourceName": "Anthony Gill",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642848",
+      "rosterName": "Tre Johnson",
+      "sourceName": "Tre Johnson",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630544",
+      "rosterName": "Tre Mann",
+      "sourceName": "Tre Mann",
+      "sourceTeam": "Charlotte Hornets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203114",
+      "rosterName": "Khris Middleton",
+      "sourceName": "Khris Middleton",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642860",
+      "rosterName": "Will Riley",
+      "sourceName": "Will Riley",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642259",
+      "rosterName": "Alex Sarr",
+      "sourceName": "Alex Sarr",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641774",
+      "rosterName": "Tristan Vukcevic",
+      "sourceName": "Tristan Vukcevic",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642364",
+      "rosterName": "Jamir Watkins",
+      "sourceName": "Jamir Watkins",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629027",
+      "rosterName": "Trae Young",
+      "sourceName": "Trae Young",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628963",
+      "rosterName": "Marvin Bagley III",
+      "sourceName": "Marvin Bagley III",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631128",
+      "rosterName": "Christian Braun",
+      "sourceName": "Christian Braun",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "201942",
+      "rosterName": "DeMar DeRozan",
+      "sourceName": "DeMar DeRozan",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "203932",
+      "rosterName": "Aaron Gordon",
+      "sourceName": "Aaron Gordon",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641747",
+      "rosterName": "DaRon Holmes II",
+      "sourceName": "DaRon Holmes II",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629661",
+      "rosterName": "Cameron Johnson",
+      "sourceName": "Cameron Johnson",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203999",
+      "rosterName": "Nikola Jokic",
+      "sourceName": "Nikola Jokic",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642461",
+      "rosterName": "Spencer Jones",
+      "sourceName": "Spencer Jones",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626145",
+      "rosterName": "Tyus Jones",
+      "sourceName": "Tyus Jones",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627750",
+      "rosterName": "Jamal Murray",
+      "sourceName": "Jamal Murray",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642948",
+      "rosterName": "Ryan Nembhard",
+      "sourceName": "Ryan Nembhard",
+      "sourceTeam": "Atlanta Hawks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630192",
+      "rosterName": "Zeke Nnaji",
+      "sourceName": "Zeke Nnaji",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631124",
+      "rosterName": "Julian Strawther",
+      "sourceName": "Julian Strawther",
+      "sourceTeam": "Denver Nuggets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641715",
+      "rosterName": "Cam Whitmore",
+      "sourceName": "Cam Whitmore",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630163",
+      "rosterName": "LaMelo Ball",
+      "sourceName": "LaMelo Ball",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642866",
+      "rosterName": "Joan Beringer",
+      "sourceName": "Joan Beringer",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641740",
+      "rosterName": "Jaylen Clark",
+      "sourceName": "Jaylen Clark",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628978",
+      "rosterName": "Donte DiVincenzo",
+      "sourceName": "Donte DiVincenzo",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630245",
+      "rosterName": "Ayo Dosunmu",
+      "sourceName": "Ayo Dosunmu",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630162",
+      "rosterName": "Anthony Edwards",
+      "sourceName": "Anthony Edwards",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-b84ae04de99f",
+      "rosterName": "Enrique Freeman",
+      "sourceName": "Enrique Freeman",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "203497",
+      "rosterName": "Rudy Gobert",
+      "sourceName": "Rudy Gobert",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630538",
+      "rosterName": "Bones Hyland",
+      "sourceName": "Bones Hyland",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630228",
+      "rosterName": "Jonathan Kuminga",
+      "sourceName": "Jonathan Kuminga",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626168",
+      "rosterName": "Trey Lyles",
+      "sourceName": "Trey Lyles",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630183",
+      "rosterName": "Jaden McDaniels",
+      "sourceName": "Jaden McDaniels",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642389",
+      "rosterName": "Zyon Pullin",
+      "sourceName": "Zyon Pullin",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630545",
+      "rosterName": "Terrence Shannon, Jr.",
+      "sourceName": "Terrence Shannon Jr.",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642262",
+      "rosterName": "Cody Williams",
+      "sourceName": "Cody Williams",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642911",
+      "rosterName": "Rocco Zikarsky",
+      "sourceName": "Rocco Zikarsky",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642964",
+      "rosterName": "Brooks Barnhizer",
+      "sourceName": "Brooks Barnhizer",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627936",
+      "rosterName": "Alex Caruso",
+      "sourceName": "Alex Caruso",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628983",
+      "rosterName": "Shai Gilgeous-Alexander",
+      "sourceName": "Shai Gilgeous-Alexander",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628392",
+      "rosterName": "Isaiah Hartenstein",
+      "sourceName": "Isaiah Hartenstein",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631096",
+      "rosterName": "Chet Holmgren",
+      "sourceName": "Chet Holmgren",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642272",
+      "rosterName": "Jared McCain",
+      "sourceName": "Jared McCain",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642349",
+      "rosterName": "Ajay Mitchell",
+      "sourceName": "Ajay Mitchell",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-21bf61707a2f",
+      "rosterName": "Micah Peavy",
+      "sourceName": "Micah Peavy",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642850",
+      "rosterName": "Thomas Sorber",
+      "sourceName": "Thomas Sorber",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642260",
+      "rosterName": "Nikola Topic",
+      "sourceName": "Nikola Topic",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641717",
+      "rosterName": "Cason Wallace",
+      "sourceName": "Cason Wallace",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631114",
+      "rosterName": "Jalen Williams",
+      "sourceName": "Jalen Williams",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631119",
+      "rosterName": "Jaylin Williams",
+      "sourceName": "Jaylin Williams",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629026",
+      "rosterName": "Kenrich Williams",
+      "sourceName": "Kenrich Williams",
+      "sourceTeam": "Oklahoma City Thunder",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630166",
+      "rosterName": "Deni Avdija",
+      "sourceName": "Deni Avdija",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641739",
+      "rosterName": "Toumani Camara",
+      "sourceName": "Toumani Camara",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642382",
+      "rosterName": "Branden Carlson",
+      "sourceName": "Branden Carlson",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631321",
+      "rosterName": "Sidy Cissoko",
+      "sourceName": "Sidy Cissoko",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642270",
+      "rosterName": "Donovan Clingan",
+      "sourceName": "Donovan Clingan",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642905",
+      "rosterName": "Yang Hansen",
+      "sourceName": "Yang Hansen",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630703",
+      "rosterName": "Scoot Henderson",
+      "sourceName": "Scoot Henderson",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "201950",
+      "rosterName": "Jrue Holiday",
+      "sourceName": "Jrue Holiday",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1643257",
+      "rosterName": "Jayson Kent",
+      "sourceName": "Jayson Kent",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630249",
+      "rosterName": "Vit Krejci",
+      "sourceName": "Vit Krejci",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "203081",
+      "rosterName": "Damian Lillard",
+      "sourceName": "Damian Lillard",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629630",
+      "rosterName": "Ja Morant",
+      "sourceName": "Ja Morant",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630695",
+      "rosterName": "Micah Potter",
+      "sourceName": "Micah Potter",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631101",
+      "rosterName": "Shaedon Sharpe",
+      "sourceName": "Shaedon Sharpe",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642910",
+      "rosterName": "John Tonje",
+      "sourceName": "John Tonje",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629057",
+      "rosterName": "Robert Williams",
+      "sourceName": "Robert Williams III",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642959",
+      "rosterName": "Chris Youngblood",
+      "sourceName": "Chris Youngblood",
+      "sourceTeam": "Portland Trail Blazers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641725",
+      "rosterName": "Trey Alexander",
+      "sourceName": "Trey Alexander",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642846",
+      "rosterName": "Ace Bailey",
+      "sourceName": "Ace Bailey",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628964",
+      "rosterName": "Mo Bamba",
+      "sourceName": "Mo Bamba",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628396",
+      "rosterName": "Tony Bradley",
+      "sourceName": "Tony Bradley",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-8cff7d64e043",
+      "rosterName": "Kobe Bufkin",
+      "sourceName": "Kobe Bufkin",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642268",
+      "rosterName": "Isaiah Collier",
+      "sourceName": "Isaiah Collier",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642271",
+      "rosterName": "Kyle Filipowski",
+      "sourceName": "Kyle Filipowski",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641718",
+      "rosterName": "Keyonte George",
+      "sourceName": "Keyonte George",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630182",
+      "rosterName": "Josh Green",
+      "sourceName": "Josh Green",
+      "sourceTeam": "Minnesota Timberwolves",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629637",
+      "rosterName": "Jaxson Hayes",
+      "sourceName": "Jaxson Hayes",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631127",
+      "rosterName": "Harrison Ingram",
+      "sourceName": "Harrison Ingram",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628991",
+      "rosterName": "Jaren Jackson, Jr.",
+      "sourceName": "Jaren Jackson Jr.",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628374",
+      "rosterName": "Lauri Markkanen",
+      "sourceName": "Lauri Markkanen",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629004",
+      "rosterName": "Svi Mykhailiuk",
+      "sourceName": "Svi Mykhailiuk",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "203994",
+      "rosterName": "Jusuf Nurkic",
+      "sourceName": "Jusuf Nurkic",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629006",
+      "rosterName": "Josh Okogie",
+      "sourceName": "Josh Okogie",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641729",
+      "rosterName": "Brice Sensabaugh",
+      "sourceName": "Brice Sensabaugh",
+      "sourceTeam": "Utah Jazz",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629646",
+      "rosterName": "Charles Bassey",
+      "sourceName": "Charles Bassey",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "202710",
+      "rosterName": "Jimmy Butler III",
+      "sourceName": "Jimmy Butler",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1643018",
+      "rosterName": "L.J. Cryer",
+      "sourceName": "LJ Cryer",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "201939",
+      "rosterName": "Stephen Curry",
+      "sourceName": "Stephen Curry",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "203110",
+      "rosterName": "Draymond Green",
+      "sourceName": "Draymond Green",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "201143",
+      "rosterName": "Al Horford",
+      "sourceName": "Al Horford",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642502",
+      "rosterName": "Malevy Leons",
+      "sourceName": "Malevy Leons",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629001",
+      "rosterName": "De'Anthony Melton",
+      "sourceName": "De’Anthony Melton",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630541",
+      "rosterName": "Moses Moody",
+      "sourceName": "Moses Moody",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627777",
+      "rosterName": "Georges Niang",
+      "sourceName": "Georges Niang",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627780",
+      "rosterName": "Gary Payton II",
+      "sourceName": "Gary Payton II",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641764",
+      "rosterName": "Brandin Podziemski",
+      "sourceName": "Brandin Podziemski",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "204001",
+      "rosterName": "Kristaps Porzingis",
+      "sourceName": "Kristaps Porzingis",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642954",
+      "rosterName": "Will Richard",
+      "sourceName": "Will Richard",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630611",
+      "rosterName": "Gui Santos",
+      "sourceName": "Gui Santos",
+      "sourceTeam": "Golden State Warriors",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630314",
+      "rosterName": "Brandon Williams",
+      "sourceName": "Brandon Williams",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "203078",
+      "rosterName": "Bradley Beal",
+      "sourceName": "Bradley Beal",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642353",
+      "rosterName": "Cameron Christie",
+      "sourceName": "Cam Christie",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641711",
+      "rosterName": "Gradey Dick",
+      "sourceName": "Gradey Dick",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627739",
+      "rosterName": "Kris Dunn",
+      "sourceName": "Kris Dunn",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629636",
+      "rosterName": "Darius Garland",
+      "sourceName": "Darius Garland",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629060",
+      "rosterName": "Rui Hachimura",
+      "sourceName": "Rui Hachimura",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627742",
+      "rosterName": "Brandon Ingram",
+      "sourceName": "Brandon Ingram",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630543",
+      "rosterName": "Isaiah Jackson",
+      "sourceName": "Isaiah Jackson",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627884",
+      "rosterName": "Derrick Jones",
+      "sourceName": "Derrick Jones Jr.",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "201572",
+      "rosterName": "Brook Lopez",
+      "sourceName": "Brook Lopez",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641757",
+      "rosterName": "Jordan Miller",
+      "sourceName": "Jordan Miller",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642949",
+      "rosterName": "Yanic Konan Niederhauser",
+      "sourceName": "Yanic Konan Niederhauser",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629618",
+      "rosterName": "Jalen Pickett",
+      "sourceName": "Jalen Pickett",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642920",
+      "rosterName": "Kobe Sanders",
+      "sourceName": "Kobe Sanders",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629622",
+      "rosterName": "Max Strus",
+      "sourceName": "Max Strus",
+      "sourceTeam": "Cleveland Cavaliers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629029",
+      "rosterName": "Luka Doncic",
+      "sourceName": "Luka Doncic",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629656",
+      "rosterName": "Quentin Grimes",
+      "sourceName": "Quentin Grimes",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630702",
+      "rosterName": "Jaden Hardy",
+      "sourceName": "Jaden Hardy",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642355",
+      "rosterName": "Bronny James",
+      "sourceName": "Bronny James",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631117",
+      "rosterName": "Walker Kessler",
+      "sourceName": "Walker Kessler",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631222",
+      "rosterName": "Jake LaRavia",
+      "sourceName": "Jake LaRavia",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626172",
+      "rosterName": "Kevon Looney",
+      "sourceName": "Kevon Looney",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630572",
+      "rosterName": "Sandro Mamukelashvili",
+      "sourceName": "Sandro Mamukelashvili",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1643024",
+      "rosterName": "Chris Manon",
+      "sourceName": "Chris Manon",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630559",
+      "rosterName": "Austin Reaves",
+      "sourceName": "Austin Reaves",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629012",
+      "rosterName": "Collin Sexton",
+      "sourceName": "Collin Sexton",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642876",
+      "rosterName": "Adou Thiero",
+      "sourceName": "Adou Thiero",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629680",
+      "rosterName": "Matisse Thybulle",
+      "sourceName": "Matisse Thybulle",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629020",
+      "rosterName": "Jarred Vanderbilt",
+      "sourceName": "Jarred Vanderbilt",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630533",
+      "rosterName": "Ziaire Williams",
+      "sourceName": "Ziaire Williams",
+      "sourceTeam": "Los Angeles Lakers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1626164",
+      "rosterName": "Devin Booker",
+      "sourceName": "Devin Booker",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631123",
+      "rosterName": "Jamaree Bouyea",
+      "sourceName": "Jamaree Bouyea",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628970",
+      "rosterName": "Miles Bridges",
+      "sourceName": "Miles Bridges",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628415",
+      "rosterName": "Dillon Brooks",
+      "sourceName": "Dillon Brooks",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642346",
+      "rosterName": "Ryan Dunn",
+      "sourceName": "Ryan Dunn",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642853",
+      "rosterName": "Rasheer Fleming",
+      "sourceName": "Rasheer Fleming",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631221",
+      "rosterName": "Collin Gillespie",
+      "sourceName": "Collin Gillespie",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630692",
+      "rosterName": "Jordan Goodwin",
+      "sourceName": "Jordan Goodwin",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630224",
+      "rosterName": "Jalen Green",
+      "sourceName": "Jalen Green",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642345",
+      "rosterName": "Oso Ighodaro",
+      "sourceName": "Oso Ighodaro",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628379",
+      "rosterName": "Luke Kennard",
+      "sourceName": "Luke Kennard",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642863",
+      "rosterName": "Khaman Maluach",
+      "sourceName": "Khaman Maluach",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630311",
+      "rosterName": "Pat Spencer",
+      "sourceName": "Pat Spencer",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631166",
+      "rosterName": "Drew Timme",
+      "sourceName": "Drew Timme",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631109",
+      "rosterName": "Mark Williams",
+      "sourceName": "Mark Williams",
+      "sourceTeam": "Phoenix Suns",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630173",
+      "rosterName": "Precious Achiuwa",
+      "sourceName": "Precious Achiuwa",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642928",
+      "rosterName": "Dylan Cardwell",
+      "sourceName": "Dylan Cardwell",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642363",
+      "rosterName": "Nique Clifford",
+      "sourceName": "Nique Clifford",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629631",
+      "rosterName": "De'Andre Hunter",
+      "sourceName": "De’Andre Hunter",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "203897",
+      "rosterName": "Zach LaVine",
+      "sourceName": "Zach LaVine",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642367",
+      "rosterName": "Jonathan Mogbo",
+      "sourceName": "Jonathan Mogbo",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628370",
+      "rosterName": "Malik Monk",
+      "sourceName": "Malik Monk",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631099",
+      "rosterName": "Keegan Murray",
+      "sourceName": "Keegan Murray",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-ba0f1dafd67a",
+      "rosterName": "Sean Pedulla",
+      "sourceName": "Sean Pedulla",
+      "sourceTeam": "Los Angeles Clippers",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631342",
+      "rosterName": "Daeqwon Plowden",
+      "sourceName": "Daeqwon Plowden",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642875",
+      "rosterName": "Maxime Raynaud",
+      "sourceName": "Maxime Raynaud",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627734",
+      "rosterName": "Domantas Sabonis",
+      "sourceName": "Domantas Sabonis",
+      "sourceTeam": "Sacramento Kings",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627732",
+      "rosterName": "Ben Simmons",
+      "sourceName": "Ben Simmons",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630583",
+      "rosterName": "Santi Aldama",
+      "sourceName": "Santi Aldama",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631108",
+      "rosterName": "Max Christie",
+      "sourceName": "Max Christie",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630619",
+      "rosterName": "Moussa Cisse",
+      "sourceName": "Moussa Cisse",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "realgm-aebc20159d7f",
+      "rosterName": "Walter Clayton, Jr.",
+      "sourceName": "Walter Clayton Jr.",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642843",
+      "rosterName": "Cooper Flagg",
+      "sourceName": "Cooper Flagg",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629655",
+      "rosterName": "Daniel Gafford",
+      "sourceName": "Daniel Gafford",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641724",
+      "rosterName": "Jett Howard",
+      "sourceName": "Jett Howard",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "202681",
+      "rosterName": "Kyrie Irving",
+      "sourceName": "Kyrie Irving",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641726",
+      "rosterName": "Dereck Lively II",
+      "sourceName": "Dereck Lively II",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630230",
+      "rosterName": "Naji Marshall",
+      "sourceName": "Naji Marshall",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628997",
+      "rosterName": "Caleb Martin",
+      "sourceName": "Caleb Martin",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642258",
+      "rosterName": "Zaccharie Risacher",
+      "sourceName": "Zaccharie Risacher",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631204",
+      "rosterName": "Marcus Sasser",
+      "sourceName": "Marcus Sasser",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629023",
+      "rosterName": "P.J. Washington",
+      "sourceName": "P.J. Washington",
+      "sourceTeam": "Dallas Mavericks",
+      "match": "exact"
+    },
+    {
+      "playerId": "203500",
+      "rosterName": "Steven Adams",
+      "sourceName": "Steven Adams",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203992",
+      "rosterName": "Bogdan Bogdanovic",
+      "sourceName": "Bogdan Bogdanovic",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203991",
+      "rosterName": "Clint Capela",
+      "sourceName": "Clint Capela",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "201142",
+      "rosterName": "Kevin Durant",
+      "sourceName": "Kevin Durant",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631106",
+      "rosterName": "Tari Eason",
+      "sourceName": "Tari Eason",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641763",
+      "rosterName": "Julian Phillips",
+      "sourceName": "Julian Phillips",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630578",
+      "rosterName": "Alperen Sengun",
+      "sourceName": "Alperen Sengun",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642263",
+      "rosterName": "Reed Sheppard",
+      "sourceName": "Reed Sheppard",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "203935",
+      "rosterName": "Marcus Smart",
+      "sourceName": "Marcus Smart",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631095",
+      "rosterName": "Jabari Smith, Jr.",
+      "sourceName": "Jabari Smith Jr.",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630256",
+      "rosterName": "Jae'sean Tate",
+      "sourceName": "Jae’Sean Tate",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641708",
+      "rosterName": "Amen Thompson",
+      "sourceName": "Amen Thompson",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631131",
+      "rosterName": "Oscar Tshiebwe",
+      "sourceName": "Oscar Tshiebwe",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627832",
+      "rosterName": "Fred VanVleet",
+      "sourceName": "Fred VanVleet",
+      "sourceTeam": "Houston Rockets",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642907",
+      "rosterName": "Cedric Coward",
+      "sourceName": "Cedric Coward",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641744",
+      "rosterName": "Zach Edey",
+      "sourceName": "Zach Edey",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "203924",
+      "rosterName": "Jerami Grant",
+      "sourceName": "Jerami Grant",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641707",
+      "rosterName": "Taylor Hendricks",
+      "sourceName": "Taylor Hendricks",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641713",
+      "rosterName": "G.G. Jackson",
+      "sourceName": "GG Jackson",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629660",
+      "rosterName": "Ty Jerome",
+      "sourceName": "Ty Jerome",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642942",
+      "rosterName": "Jahmai Mashack",
+      "sourceName": "Jahmai Mashack",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631200",
+      "rosterName": "Kris Murray",
+      "sourceName": "Kris Murray",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630590",
+      "rosterName": "Scotty Pippen, Jr.",
+      "sourceName": "Scotty Pippen Jr.",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642366",
+      "rosterName": "Quinten Post",
+      "sourceName": "Quinten Post",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641765",
+      "rosterName": "Olivier-Maxence Prosper",
+      "sourceName": "Olivier-Maxence Prosper",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642914",
+      "rosterName": "Javon Small",
+      "sourceName": "Javon Small",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642285",
+      "rosterName": "Cam Spencer",
+      "sourceName": "Cam Spencer",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630191",
+      "rosterName": "Isaiah Stewart II",
+      "sourceName": "Isaiah Stewart",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642377",
+      "rosterName": "Jaylen Wells",
+      "sourceName": "Jaylen Wells",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630180",
+      "rosterName": "Saddiq Bey",
+      "sourceName": "Saddiq Bey",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642847",
+      "rosterName": "Jeremiah Fears",
+      "sourceName": "Jeremiah Fears",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642358",
+      "rosterName": "A.J. Johnson",
+      "sourceName": "AJ Johnson",
+      "sourceTeam": "Memphis Grizzlies",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630529",
+      "rosterName": "Herb Jones",
+      "sourceName": "Herbert Jones",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "201599",
+      "rosterName": "DeAndre Jordan",
+      "sourceName": "DeAndre Jordan",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631097",
+      "rosterName": "Bennedict Mathurin",
+      "sourceName": "Bennedict Mathurin",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631255",
+      "rosterName": "Karlo Matkovic",
+      "sourceName": "Karlo Matkovic",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1631121",
+      "rosterName": "Bryce McGowens",
+      "sourceName": "Bryce McGowens",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642274",
+      "rosterName": "Yves Missi",
+      "sourceName": "Yves Missi",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630530",
+      "rosterName": "Trey Murphy III",
+      "sourceName": "Trey Murphy III",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1627749",
+      "rosterName": "Dejounte Murray",
+      "sourceName": "Dejounte Murray",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629673",
+      "rosterName": "Jordan Poole",
+      "sourceName": "Jordan Poole",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642852",
+      "rosterName": "Derik Queen",
+      "sourceName": "Derik Queen",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642882",
+      "rosterName": "Julian Reese",
+      "sourceName": "Julian Reese",
+      "sourceTeam": "Washington Wizards",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630570",
+      "rosterName": "Trendon Watford",
+      "sourceName": "Trendon Watford",
+      "sourceTeam": "Free Agency",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629627",
+      "rosterName": "Zion Williamson",
+      "sourceName": "Zion Williamson",
+      "sourceTeam": "New Orleans Pelicans",
+      "match": "exact"
+    },
+    {
+      "playerId": "203084",
+      "rosterName": "Harrison Barnes",
+      "sourceName": "Harrison Barnes",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642868",
+      "rosterName": "Carter Bryant",
+      "sourceName": "Carter Bryant",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642264",
+      "rosterName": "Stephon Castle",
+      "sourceName": "Stephon Castle",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630577",
+      "rosterName": "Julian Champagnie",
+      "sourceName": "Julian Champagnie",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628368",
+      "rosterName": "De'Aaron Fox",
+      "sourceName": "De’Aaron Fox",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642844",
+      "rosterName": "Dylan Harper",
+      "sourceName": "Dylan Harper",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "202699",
+      "rosterName": "Tobias Harris",
+      "sourceName": "Tobias Harris",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629640",
+      "rosterName": "Keldon Johnson",
+      "sourceName": "Keldon Johnson",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1642357",
+      "rosterName": "David Jones-Garcia",
+      "sourceName": "David Jones Garcia",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1628436",
+      "rosterName": "Luke Kornet",
+      "sourceName": "Luke Kornet",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1629162",
+      "rosterName": "Jordan McLaughlin",
+      "sourceName": "Jordan McLaughlin",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1630170",
+      "rosterName": "Devin Vassell",
+      "sourceName": "Devin Vassell",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    },
+    {
+      "playerId": "1641705",
+      "rosterName": "Victor Wembanyama",
+      "sourceName": "Victor Wembanyama",
+      "sourceTeam": "San Antonio Spurs",
+      "match": "exact"
+    }
+  ],
+  "unmatched": [
+    "Chris Cenac, Jr.",
+    "Dillon Mitchell",
+    "Tyler Bilodeau",
+    "Mikel Brown Jr.",
+    "Joshua Jefferson",
+    "Grant Nelson",
+    "Jaden Akins",
+    "Tyler Nickel",
+    "Tacko Fall",
+    "Labaron Philon, Jr.",
+    "Nate Bittle",
+    "Jaden Bradley",
+    "Allen Graves",
+    "Tobe Awaka",
+    "Jaylin Sellers",
+    "Dailyn Swain",
+    "Caleb Wilson",
+    "Khalifa Diop",
+    "Meleek Thomas",
+    "Ernest Udeh, Jr.",
+    "Ebuka Okorie",
+    "Ugonna Onyenso",
+    "Braden Smith",
+    "Nate Ament",
+    "Brayden Burries",
+    "Bogoljub Markovic",
+    "Zuby Ejiofor",
+    "Kingston Flemings",
+    "Henri Veesaar",
+    "Michael Ajayi",
+    "Christian Anderson, Jr.",
+    "Kylan Boswell",
+    "Hannes Steinbach",
+    "Ryan Conwell",
+    "Tre Donaldson",
+    "Izaiyah Nelson",
+    "A.J. Dybantsa",
+    "Felix Okpara",
+    "Trevon Brazile",
+    "Alpha Diallo",
+    "Bryce Hopkins",
+    "Isaiah Evans",
+    "Josh Dix",
+    "Aday Mara",
+    "Bennett Stirtz",
+    "Darryn Peterson",
+    "Graham Ike",
+    "Yaxel Lendeborg",
+    "Nick Martinelli",
+    "Baba Miller",
+    "Keaton Wagler",
+    "Cameron Carr",
+    "Arthur Kaluma",
+    "Koa Peat",
+    "Duop Reath",
+    "Darius Acuff, Jr.",
+    "Leaky Black",
+    "Alex Karaban",
+    "Emanuel Sharp",
+    "Tarik Biberovic",
+    "Sergio De Larrea",
+    "Morez Johnson, Jr.",
+    "Tobi Lawal",
+    "Quadir Copeland",
+    "Isaiah Crawford",
+    "Bruce Thornton",
+    "Cameron Boozer",
+    "Carson Cooper",
+    "Karim Lopez",
+    "Malik Dia",
+    "Jaron Pierre, Jr.",
+    "Maliq Brown",
+    "Ja'Kobi Gillespie",
+    "Jayden Quaintance",
+    "Tarris Reed, Jr."
+  ],
+  "unmatchedReasons": {
+    "Chris Cenac, Jr.": "not-in-2k26-current-roster",
+    "Dillon Mitchell": "not-in-2k26-current-roster",
+    "Tyler Bilodeau": "not-in-2k26-current-roster",
+    "Mikel Brown Jr.": "2k26-row-has-no-ratings",
+    "Joshua Jefferson": "not-in-2k26-current-roster",
+    "Grant Nelson": "not-in-2k26-current-roster",
+    "Jaden Akins": "not-in-2k26-current-roster",
+    "Tyler Nickel": "not-in-2k26-current-roster",
+    "Tacko Fall": "not-in-2k26-current-roster",
+    "Labaron Philon, Jr.": "not-in-2k26-current-roster",
+    "Nate Bittle": "not-in-2k26-current-roster",
+    "Jaden Bradley": "not-in-2k26-current-roster",
+    "Allen Graves": "not-in-2k26-current-roster",
+    "Tobe Awaka": "not-in-2k26-current-roster",
+    "Jaylin Sellers": "not-in-2k26-current-roster",
+    "Dailyn Swain": "not-in-2k26-current-roster",
+    "Caleb Wilson": "2k26-row-has-no-ratings",
+    "Khalifa Diop": "not-in-2k26-current-roster",
+    "Meleek Thomas": "not-in-2k26-current-roster",
+    "Ernest Udeh, Jr.": "not-in-2k26-current-roster",
+    "Ebuka Okorie": "not-in-2k26-current-roster",
+    "Ugonna Onyenso": "not-in-2k26-current-roster",
+    "Braden Smith": "not-in-2k26-current-roster",
+    "Nate Ament": "not-in-2k26-current-roster",
+    "Brayden Burries": "not-in-2k26-current-roster",
+    "Bogoljub Markovic": "not-in-2k26-current-roster",
+    "Zuby Ejiofor": "not-in-2k26-current-roster",
+    "Kingston Flemings": "not-in-2k26-current-roster",
+    "Henri Veesaar": "not-in-2k26-current-roster",
+    "Michael Ajayi": "not-in-2k26-current-roster",
+    "Christian Anderson, Jr.": "not-in-2k26-current-roster",
+    "Kylan Boswell": "not-in-2k26-current-roster",
+    "Hannes Steinbach": "not-in-2k26-current-roster",
+    "Ryan Conwell": "not-in-2k26-current-roster",
+    "Tre Donaldson": "not-in-2k26-current-roster",
+    "Izaiyah Nelson": "not-in-2k26-current-roster",
+    "A.J. Dybantsa": "2k26-row-has-no-ratings",
+    "Felix Okpara": "not-in-2k26-current-roster",
+    "Trevon Brazile": "not-in-2k26-current-roster",
+    "Alpha Diallo": "not-in-2k26-current-roster",
+    "Bryce Hopkins": "not-in-2k26-current-roster",
+    "Isaiah Evans": "not-in-2k26-current-roster",
+    "Josh Dix": "not-in-2k26-current-roster",
+    "Aday Mara": "not-in-2k26-current-roster",
+    "Bennett Stirtz": "not-in-2k26-current-roster",
+    "Darryn Peterson": "2k26-row-has-no-ratings",
+    "Graham Ike": "not-in-2k26-current-roster",
+    "Yaxel Lendeborg": "not-in-2k26-current-roster",
+    "Nick Martinelli": "not-in-2k26-current-roster",
+    "Baba Miller": "not-in-2k26-current-roster",
+    "Keaton Wagler": "not-in-2k26-current-roster",
+    "Cameron Carr": "not-in-2k26-current-roster",
+    "Arthur Kaluma": "not-in-2k26-current-roster",
+    "Koa Peat": "not-in-2k26-current-roster",
+    "Duop Reath": "not-in-2k26-current-roster",
+    "Darius Acuff, Jr.": "not-in-2k26-current-roster",
+    "Leaky Black": "not-in-2k26-current-roster",
+    "Alex Karaban": "not-in-2k26-current-roster",
+    "Emanuel Sharp": "not-in-2k26-current-roster",
+    "Tarik Biberovic": "not-in-2k26-current-roster",
+    "Sergio De Larrea": "not-in-2k26-current-roster",
+    "Morez Johnson, Jr.": "not-in-2k26-current-roster",
+    "Tobi Lawal": "not-in-2k26-current-roster",
+    "Quadir Copeland": "not-in-2k26-current-roster",
+    "Isaiah Crawford": "not-in-2k26-current-roster",
+    "Bruce Thornton": "not-in-2k26-current-roster",
+    "Cameron Boozer": "not-in-2k26-current-roster",
+    "Carson Cooper": "not-in-2k26-current-roster",
+    "Karim Lopez": "not-in-2k26-current-roster",
+    "Malik Dia": "not-in-2k26-current-roster",
+    "Jaron Pierre, Jr.": "not-in-2k26-current-roster",
+    "Maliq Brown": "not-in-2k26-current-roster",
+    "Ja'Kobi Gillespie": "not-in-2k26-current-roster",
+    "Jayden Quaintance": "not-in-2k26-current-roster",
+    "Tarris Reed, Jr.": "not-in-2k26-current-roster"
+  }
+}
